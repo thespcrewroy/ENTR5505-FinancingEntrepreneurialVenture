@@ -38,56 +38,30 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#personnel)
 
 ## Personnel
-* Professor: Dr. Sami Menik, PhD <br>
-* TA: Triparna <br>
-* TA: Braveenan <br>
+Professor: Jim Flannery <br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#prerequisites)
 
 ## Prerequisites
-CSCI 2720 (Data Structures) or CSCI 2725 (Data Structures for Data Science)
+ENTR 5500 (Introduction to Entrepreneurship)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#directory-structure)
 
 ## Materials
-* Java 21.0.8 LTS 2025-07-15 (or latest version)
-* MySQL 8 database management system
-* Apache Maven 3.9.11 (or latest version)
-* Docker version 28.3.2, build 578ccf6 (or latest version)
-* Unix-Based Computer is preffered (macOS, linux, etc.)
-
- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#topics)
-
-## Topics
-|  Chap  |               Topic                    |
-| -------| -------------------------------------- |
-| `ch01` | `Introduction`                         |
-| `ch02` | `Introduction to the Relational Model` |
-| `ch03` | `Intermediate SQL`                     |
-| `ch04` | `Introduction to the Relational Model` |
-| `ch06` | `Database Design Using The E-R Model`  |
-| `ch07` | `Relational Database Design`           |
-| `ch09` | `Application Development`              |
-| `ch10` | `Big Data`                             |
-| `ch11` | `Data Analysis`                        |
-| `ch12` | `Physical Storage Systems`             |
-| `ch13` | `Data Storage Structures`              |
-| `ch14` | `Indexing`                             |
-| `ch15` | `Query Processing`                     |
-| `ch16` | `Query Optimization`                   |
-| `ch17` | `Transactions`                         |
+Course Packet ENTR 55/5 Bel-Jean Copy-Print Center
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#grading)
 
 ## Grading Weights
-|      Tag        | Weight |
-| --------------- | ------ |
-| `Activities`    | `14%`  |
-| `Projects`      | `30%`  |
-| `Exam 1`        | `14%`  |
-| `Exam 2`        | `14%`  |
-| `Exam 3`        | `14%`  |
-| `Final Project` | `14%`  |
+|      Tag                 | Weight |
+| ------------------------ | ------ |
+| `In-Class Participation` | `2%`  |
+| `Fund Game`              | `9%`  |
+| `Quizzes`                | `9%`  |
+| `Case Writeups`          | `35%`  |
+| `Midterm Presentation`   | `18%`  |
+| `Final Presentation`     | `13.5%`  |
+| `Final Paper`            | `13.5%`  |
 
 ## Letter Grade Breakdown
 | Letter |   Score    |
@@ -110,6 +84,9 @@ CSCI 2720 (Data Structures) or CSCI 2725 (Data Structures for Data Science)
 | ---------------  | ------------------------- |
 | `<= 24hrs`       | `pointsEarned - 10`       |
 | `24hrs to 48hrs` | `pointsEarned - 20`       |
+| `48hrs to 72hrs` | `pointsEarned - 30`       |
+| `72hrs to 96hrs` | `pointsEarned - 40`       |
+| `96hrs to 120hrs`| `pointsEarned - 50`       |
 | `>= 48hrs`       | `0`                       |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#regrade-policy)
