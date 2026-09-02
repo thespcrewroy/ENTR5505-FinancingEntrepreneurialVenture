@@ -31,11 +31,40 @@
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-3.jpg" width="500"/>
 </p>
 
-* That fee is charged for 5 years at the full rate, resulting in $10 million total management fees
+* That fee is charged for 5 years at the full rate
 
 <p align="center">
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-4.jpg" width="500"/>
 </p>
 
-* After subtracting $10 million in fees from the $100 million fund, the fund has roughly $90 million available to invest
+* Subtract the $10 million in fees from the $100 million fund
 
+## Successful Outcome
+* The fund's investments return $1 billion in revenue
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-5.jpg" width="500"/>
+</p>
+
+* Subtract the original $100 investment from the $1 billion revenue
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-6.jpg" width="500"/>
+</p>
+
+* The General Partners receive 20% carried interest on that profit
+
+## Barely-Successful Outcome
+* The fund's investments return only $101 million in revenue
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-7.jpg" width="500"/>
+</p>
+
+* Subtract the original $100 investment from the $101 million revenue
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-8.jpg" width="500"/>
+</p>
+  
+* The General Partners receive 20% carried interest on that profit
