@@ -1,7 +1,7 @@
 # Venture Capital Funding: From Investors to Startup Returns
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-1.jpg" width="500"/>
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-01.jpg" width="500"/>
 </p>
 
 ## Common Sources of Funding
