@@ -32,7 +32,6 @@
 - [Topics](#topics)
 - [Grading Weights](#grading-weights)
 - [Late Submission Policy](#late-submission-policy)
-- [ReGrade Policy](#regrade-policy)
 </details>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#personnel)
@@ -88,16 +87,6 @@ Course Packet ENTR 55/5 Bel-Jean Copy-Print Center
 | `72hrs to 96hrs` | `pointsEarned - 40`       |
 | `96hrs to 120hrs`| `pointsEarned - 50`       |
 | `>= 48hrs`       | `0`                       |
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#regrade-policy)
-
-## ReGrade Policy
-
-Please send an email using your official UGA email account including the instructor and all
-TA(s), if you think there is a mistake in a grade you received. Please use a descriptive subject
-that begins with `[4370][grading issue]` for undergraduates and `[6370][grading issue]` for
-graduates without quotes followed by the name of the assignment and include a brief but
-specific description about the grading issue in your email.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#footer)
 
