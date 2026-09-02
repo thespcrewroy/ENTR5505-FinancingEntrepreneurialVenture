@@ -39,7 +39,7 @@
 
 * Subtract the $10 million in fees from the $100 million fund
 
-## Successful Outcome
+### Successful Outcome
 * The fund's investments return $1 billion in revenue
 
 <p align="center">
@@ -54,7 +54,7 @@
 
 * The General Partners receive 20% carried interest on that profit
 
-## Barely-Successful Outcome
+### Barely-Successful Outcome
 * The fund's investments return only $101 million in revenue
 
 <p align="center">
