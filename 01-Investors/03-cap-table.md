@@ -1,4 +1,4 @@
-# Reading a Cap Table
+# Reading a Capitalization Table
 
 <p align="center">
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-10.jpg" width="500"/>
