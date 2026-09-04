@@ -28,6 +28,25 @@ Two important fixed constraints:
 *The investor can negotiate ownership and valuation, but cannot magically reduce the company’s cash needs or whatever exit multiple.*
 
 ## Calculate the Investor's Initial Ownership
+
 <p align="center">
-  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-11.jpg" width="500"/>
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-15.jpg" width="500"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-16.jpg" width="500"/>
+</p>
+
+* Investor owns 12.5%
+* Existing shareholders retain 87.5%
+* Implied pre-money valuation is $7 million
+
+## Account for Future Dilution
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-17.jpg" width="500"/>
+</p>
+
+* The company will probably raise more money during the next ten years
+* New shares will be issued to future investors, reducing this investor’s percentage
+* Thus, we assume approximately 50% dilution
