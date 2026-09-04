@@ -50,3 +50,49 @@ Two important fixed constraints:
 * The company will probably raise more money during the next ten years
 * New shares will be issued to future investors, reducing this investor’s percentage
 * Thus, we assume approximately 50% dilution
+* The investor therefore expects to own only 6.25% at exit
+
+## Determine the Investor's Required Return
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-18.jpg" width="500"/>
+</p>
+
+* The assumption is the VC investor wants a 10x return
+* Therefore, the investor's 6.25% stake must be worth $10 million after the holding period
+
+## Calculate the Required Exit Value
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-19.jpg" width="500"/>
+</p>
+
+* 6.25% must eventually equate to $10 million during exit
+* Thus, the startup must eventually be sold or valued at approximately $160 million for this investor to achieve 10×
+
+## Convert Exit Value Into Required Revenue
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-20.jpg" width="500"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-21.jpg" width="500"/>
+</p>
+
+* Apply the revenue multiple in order to connect revenue to company value
+* Conduct research on revenue multiples
+    * Traditional timber business: perhaps around 1× revenue
+    * SaaS company: perhaps around 7× revenue
+* This company starts out as SaaS and then evolves into timber company
+* Thus, this company is modeled using approximately 2× revenue at exit
+    * The multiple commonly declines as the business and market mature
+    * The investor should ALWAYS use a conservative future multiple
+    * The investor should ALWAYS assume the revenue multiple will go down, despite what the pitch says
+*  Thus, the startup must eventually have approximately $80 million in annual revenue near exit
+*  A declining multiple makes the required operating performance much greater
+
+## Convert Revenue Into Tons of Timber
+
+
