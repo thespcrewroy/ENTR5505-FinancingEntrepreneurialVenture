@@ -141,6 +141,15 @@ Two important fixed constraints:
 * Landing either of the two giants produces far more tonnage than landing an ordinary customer
 
 ## Examine the Startup's Current Customers
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-29.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-30.jpg" width="300"/>
+</p>
+
 * 5 customers own roughly 1 million-tonnes collectively
 * That is higher than the roughly 85,000-ton average among the non-giant logging companies
 * This could mean the startup is attracting relatively large customers
