@@ -188,3 +188,15 @@ Two important fixed constraints:
 
 *A more defensible operating forecast might support only a $48 million exit at $24 million annual revenue. To still earn 10× from that exit, the investor needs approximately 20.8% at exit, or roughly 41.7% today before future dilution.*
 
+Investors Must Ask These Questions:
+1. How much money must the investor receive at exit?
+2. What ownership percentage will remain after future dilution?
+3. What company exit value would make that stake worth enough?
+4. What revenue is required at a realistic future multiple?
+5. How many units, customers, or tons produce that revenue?
+6. What percentage of the entire market does that require?
+7. Have comparable companies ever captured that much?
+8. Does market concentration make the customer-count calculation misleading?
+9. If the required market share is unrealistic, can the deal work at a lower valuation and greater investor ownership?
+10. Can this company capture enough realistic economic activity for this particular investment, at this particular price, to produce the required return?
+```
