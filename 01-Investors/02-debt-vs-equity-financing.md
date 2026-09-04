@@ -27,5 +27,5 @@
 
 ## Example: Convertible and SAFE Notes
 * **Convertible Note:** begins as a loan but later converts into shares, usually when a startup raises a priced equity round
-* **SAFE:** not traditional debt (no interest or maturity date), where the investor provides money now and receives shares during a future financing event. These notes were created by Carolynn Levy at the Y-Combinator, but spread to industry standard, greatly benefitting founders risk tolerance
+* **SAFE:** not traditional debt (no interest or maturity date), where the investor provides money now and receives shares during a future financing event. These notes were created by Carolynn Levy at the Y-Combinator, but spread to industry standard
 * These instruments allow the startup to postpone determining its exact valuation and share price.
