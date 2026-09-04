@@ -186,5 +186,5 @@ Two important fixed constraints:
 
 <br>
 
-*A more defensible operating forecast might support only a $48 million exit at $24 million annual revenue. To still earn 10× from that exit, the investor needs approximately 20.8% at exit—or roughly 41.7% today before future dilution.*
+*A more defensible operating forecast might support only a $48 million exit at $24 million annual revenue. To still earn 10× from that exit, the investor needs approximately 20.8% at exit, or roughly 41.7% today before future dilution.*
 
