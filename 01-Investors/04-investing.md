@@ -188,6 +188,7 @@ Two important fixed constraints:
 
 *A more defensible operating forecast might support only a $48 million exit at $24 million annual revenue. To still earn 10× from that exit, the investor needs approximately 20.8% at exit, or roughly 41.7% today before future dilution.*
 
+```
 Investors Must Ask These Questions:
 1. How much money must the investor receive at exit?
 2. What ownership percentage will remain after future dilution?
