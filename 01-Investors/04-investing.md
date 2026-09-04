@@ -146,3 +146,6 @@ Two important fixed constraints:
 * This could mean the startup is attracting relatively large customers
 * However, five customers remain too small a sample to confidently project the whole market
 * 1 million tonnes generates $40,000 to $120,000 in revenue, with $80,000 as the midpoint
+
+
+
