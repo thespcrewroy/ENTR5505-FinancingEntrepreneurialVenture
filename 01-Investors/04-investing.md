@@ -30,11 +30,11 @@ Two important fixed constraints:
 ## Calculate the Investor's Initial Ownership
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-15.jpg" width="500"/>
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-15.jpg" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-16.jpg" width="500"/>
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-16.jpg" width="300"/>
 </p>
 
 * Investor owns 12.5%
@@ -44,7 +44,7 @@ Two important fixed constraints:
 ## Account for Future Dilution
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-17.jpg" width="500"/>
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-17.jpg" width="300"/>
 </p>
 
 * The company will probably raise more money during the next ten years
@@ -55,7 +55,7 @@ Two important fixed constraints:
 ## Determine the Investor's Required Return
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-18.jpg" width="500"/>
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-18.jpg" width="300"/>
 </p>
 
 * The assumption is the VC investor wants a 10x return
@@ -64,7 +64,7 @@ Two important fixed constraints:
 ## Calculate the Required Exit Value
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-19.jpg" width="500"/>
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-19.jpg" width="300"/>
 </p>
 
 * 6.25% must eventually equate to $10 million during exit
@@ -95,4 +95,54 @@ Two important fixed constraints:
 
 ## Convert Revenue Into Tons of Timber
 
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-23.jpg" width="500"/>
+</p>
 
+* The company only earns a few cents ($0.04 - $0.12) through each ton processed through its system
+* Figures of approximately 666 million to 2 billion tons of timber are needed to obtain the desired valuation
+
+## Compare This With the Whole Market
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-24.jpg" width="500"/>
+</p>
+
+* Even under the most favorable price, the company needs more than 2/3 of the entire market
+* At the midpoint price offering, it needs more volume than the whole market contains.
+* Thus, the original proposed deal may therefore fail the VC test not because the product is bad, but because the investor cannot realistically earn 10× their investment under those valuation and ownership terms
+
+## Research: Is the Market Share Assumption Realistic?
+1. Seperate the two enormous company competitors
+2. Examine the startup's current customers
+
+## Separate the Two Largest Competitors
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-25.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-26.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-27.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-28.jpg" width="300"/>
+</p>
+
+* Two enormous companies control 17% of the approximately 900-million-ton market
+* This leaves the two companies with 153-million-tons of timber, or an average of 76.5-million-tons each
+* This leaves 747-million-tons of timber for the remaining 8,798 timber companies, or an average of 84,900-tons each
+* Thus, “number of customers” and “market share by timber volume for each customer” are not equivalent
+* Landing either of the two giants produces far more tonnage than landing an ordinary customer
+
+## Examine the Startup's Current Customers
+* 5 customers own roughly 1 million-tonnes collectively
+* That is higher than the roughly 85,000-ton average among the non-giant logging companies
+* This could mean the startup is attracting relatively large customers
+* However, five customers remain too small a sample to confidently project the whole market
+* 1 million tonnes generates $40,000 to $120,000 in revenue, with $80,000 as the midpoint
