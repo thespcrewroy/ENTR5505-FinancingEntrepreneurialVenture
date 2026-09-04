@@ -17,7 +17,7 @@
 </p>
 
 * The angel negotiates 30% ownership after the investment
-* The company creates approximately 428 new shares for the angel'
+* The company creates approximately 428 new shares for the angel
 
 <p align="center">
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-13.jpg" width="500"/>
