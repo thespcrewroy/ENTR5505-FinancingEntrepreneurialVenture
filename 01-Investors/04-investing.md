@@ -156,5 +156,35 @@ Two important fixed constraints:
 * However, five customers remain too small a sample to confidently project the whole market
 * 1 million tonnes generates $40,000 to $120,000 in revenue, with $80,000 as the midpoint
 
+# Fixing the Deal: Change Ownership Percentage
 
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-31.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-32.jpg" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-33.jpg" width="300"/>
+</p>
+* Assume a plausible future revenue of approximately $24 million and a 2x conservative revenue multiple
+* The $1 million funding requirement cannot change, so the investor still needs a $10 million return
+* 20.83% at exit of the company will most-likely get the investor a $10 million return
+* Edge-Case: if we assume a 50% dilution through future raising rounds, the investor would need 41.67% today
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-34.jpg" width="300"/>
+</p>
+
+* A $1 million buy at 41.7% ownership stake gives a post-money valuation of $2.4 million
+* This is dramatically different from the entrepreneur's proposed $8 million post-money valuation
+
+## Conclusion After Pitch
+*The original deal says, “Invest $1 million for 12.5%.” But after assumed dilution, achieving a 10× return requires a $160 million exit at $80 million of annual revenue, and an implausibly large portion of all timber volume.*
+
+<br>
+
+*A more defensible operating forecast might support only a $48 million exit at $24 million annual revenue. To still earn 10× from that exit, the investor needs approximately 20.8% at exit—or roughly 41.7% today before future dilution.*
 
