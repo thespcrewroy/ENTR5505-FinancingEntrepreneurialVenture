@@ -116,7 +116,7 @@ Two important fixed constraints:
 1. Seperate the two enormous company competitors
 2. Examine the startup's current customers
 
-## Separate the Two Largest Competitors
+### Separate the Two Largest Competitors
 
 <p align="center">
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-25.jpg" width="300"/>
@@ -140,7 +140,7 @@ Two important fixed constraints:
 * Thus, “number of customers” and “market share by timber volume for each customer” are not equivalent
 * Landing either of the two giants produces far more tonnage than landing an ordinary customer
 
-## Examine the Startup's Current Customers
+### Examine the Startup's Current Customers
 
 <p align="center">
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-29.jpg" width="300"/>
@@ -156,7 +156,7 @@ Two important fixed constraints:
 * However, five customers remain too small a sample to confidently project the whole market
 * 1 million tonnes generates $40,000 to $120,000 in revenue, with $80,000 as the midpoint
 
-# Fixing the Deal: Change Ownership Percentage
+## Fixing the Deal: Change Ownership Percentage
 
 <p align="center">
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-31.jpg" width="300"/>
