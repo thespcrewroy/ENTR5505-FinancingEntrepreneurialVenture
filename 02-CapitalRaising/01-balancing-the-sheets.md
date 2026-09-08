@@ -139,14 +139,27 @@ Rent expense:    $500
 * Earning $27,800 of revenue so quickly could then be encouraging
 * However, one month cannot establish: demand, customer retention, season patterns, inventory needs, etc.
 
-### Net Income vs. Cash
+## Fundraise?
 ```
-Net income:                              $12,950
-Operating cash flow:                    $24,300
-Ending cash:                            $32,800
+1. Why do we need to raise money?
+2. How much money do we need to raise?
 ```
 
-Why are these numbers different? Because accounting profit includes transactions that have not necessarily been paid in cash, while cash flow records the movement of cash
+```
+Required raise =
+Cash needed until the next milestone
++ Safety buffer
+- Existing cash
+- Cash expected from operations
+```
 
-
-
+Example:
+```
+18 months of operating costs              $300,000
+Inventory and equipment                    100,000
+Safety buffer                               50,000
+Less current usable cash                   (32,800)
+Less expected operating cash generation    (67,200)
+                                          --------
+Illustrative amount to raise              $350,000
+```
