@@ -1,4 +1,4 @@
-# Case Study: Financial Projects Through Due Diligence
+# Case Study: Financial Projections Through Due Diligence
 |     Year      |    Revenue    |  Gross Margin   | Operating Expenses |    Net Profit     |
 | ------------- | ------------- | --------------- | ------------------ | ----------------- |
 | 2025 actual   |      $260,000 |        $255,000 |           $265,000 |     **($10,000)** |
@@ -52,7 +52,7 @@
     * Is revenue concentrated in one customer?
 * Losing the wrong customers can sharpen the strategy. Losing good customers because the product failed is a major warning sign.
 
-## The Projects Make an Enormous Jump
+## The Projections Make an Enormous Jump
 * The company projects revenue moving from: `$180,000 → $2.2M → $6.6M → $15.7M`
     * 2026 to 2027: more than 12× growth
     * 2027 to 2028: 3× growth
