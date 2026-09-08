@@ -76,3 +76,12 @@
     * Repay it from future cash flow
     * Preserve nearly all their ownership
 * Equity does not make sense here since founders would need to surrender part of their company
+
+## Conclusion
+* At $1 million for 12.5%, the investor should probably reject the deal if trying to get their 10x return
+* At $1 million for 41%, the founders should probably reject the deal if their extremely profitable forecasts are credible
+* Debt looks cheaper if the projections are dependable and the company can actually qualify for and safely service the loan
+* Equity is more expensive when the company succeeds, but the investor also assumes the risk of receiving nothing if it fails
+
+## Practical Caveat
+*A young, loss-making startup usually cannot obtain a $1 million unsecured loan merely because its spreadsheet predicts future profit. A lender will want collateral, guarantees, contracted revenue, or proven cash flow. So “use debt” is logically attractive under the forecasts, but it may not actually be available on safe terms.*
