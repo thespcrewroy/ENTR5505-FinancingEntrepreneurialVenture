@@ -169,6 +169,7 @@ Two important fixed constraints:
 <p align="center">
   <img src="https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/1-33.jpg" width="300"/>
 </p>
+
 * Assume a plausible future revenue of approximately $24 million and a 2x conservative revenue multiple
 * The $1 million funding requirement cannot change, so the investor still needs a $10 million return
 * 20.83% at exit of the company will most-likely get the investor a $10 million return
