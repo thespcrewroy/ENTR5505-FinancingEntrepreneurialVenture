@@ -118,4 +118,35 @@ Beginning cash balance                            0
 ENDING CASH BALANCE                         $32,800
 ```
 
+### Paul Reports a Large Profit Margin
+* Paul's net margin is at `$12,950/$27,800` or 46.6%
+* On paper, keeping nearly 47 cents of every revenue dollar as profit looks excellent
+* But the absolute revenue is tiny at only $27,800
+* A high margin on a small business does not automatically create an attractive investment
+
+### Important Costs are Artificially Low
+```
+Wage expense:    $750
+Rent expense:    $500
+```
+* Those amounts are extraordinarily low for an entire year
+* Paul works full-time but does not pay himself a normal salary
+* The company looks more profitable because Paul is effectively donating his labor
+* If the shop has unusually cheap or subsidized rent, its current profit may not continue after moving or expanding
+
+### Short Operating History
+* Let's assume the shop opened only about a month earlier
+* Earning $27,800 of revenue so quickly could then be encouraging
+* However, one month cannot establish: demand, customer retention, season patterns, inventory needs, etc.
+
+### Net Income vs. Cash
+```
+Net income:                              $12,950
+Operating cash flow:                    $24,300
+Ending cash:                            $32,800
+```
+
+Why are these numbers different? Because accounting profit includes transactions that have not necessarily been paid in cash, while cash flow records the movement of cash
+
+
 
