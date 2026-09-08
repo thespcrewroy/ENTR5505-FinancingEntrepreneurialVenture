@@ -28,4 +28,11 @@
     - Recurring versus one-time revenue
     - Customer and truck counts
     - Cancellations and churn
+ 
+## Why does revenue fall from $260,000 to $180,000?
+* The table shows a $80,000 loss in annual revenue from 2025 to 2026
+* This matters because the previous analysis estimated that the five customers processing approximately one million tons could generate around a median of $80,000 per customer
+* Therefore, an $80,000 decline could indicate that
+    * One significant customer left
+
 
