@@ -3,7 +3,7 @@
 > The following is a VC “backsolve.” We start with the return the investor needs, and then work backwards to the company’s required exit value and revenue. Finally, we ask whether that revenue would require an absurd share of the timber market. The timber details are merely the test case. The same method could use users, transactions, hospital beds, or any other revenue-producing unit.
 
 ```
-* Raising $1 million at $8 post-money valuation
+* Raising $1 million at $8 million post-money valuation
 * Already raised $100,000
 * Team: 3 people (CEO, COO, CTO)
 * Competitors: 3 main competitors
