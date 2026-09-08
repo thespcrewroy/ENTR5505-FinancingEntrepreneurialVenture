@@ -7,19 +7,13 @@
 * Already raised $100,000
 * Team: 3 people (CEO, COO, CTO)
 * Competitors: 3 main competitors
-* 8,800 logging companies
-* 2 companies account for 17% of all timber
-```
-
-## Starting Facts
-The startup says:
-* “We need $1 million.”
-* “We value the company at $8 million post-money.”
-* The company charges customers approximately $0.04 - $0.12 per ton of timber
+* 8,800 logging companies competing in the market
+* 2 companies account for 17% of all timber in the market
 * The relevant market contains approximately 900 million tons
-* There are 8,800 logging companies
-* 2 companies control 17% of the timber volume
+* 5 customers already own roughly 1 million-tonnes collectively
+* The company charges customers approximately $0.04 - $0.12 per ton of timber
 * Assumed holding period is approximately 10 years
+```
 
 Two important fixed constraints:
 * The company needs $1 million
