@@ -31,8 +31,48 @@
  
 ## Why does revenue fall from $260,000 to $180,000?
 * The table shows a $80,000 loss in annual revenue from 2025 to 2026
-* This matters because the previous analysis estimated that the five customers processing approximately one million tons could generate around a median of $80,000 per customer
+* This matters because the previous analysis estimated that the five customers generate around a median of $80,000-per-million-tones
 * Therefore, an $80,000 decline could indicate that
     * One significant customer left
+    * Several trucks stopped using the product
+    * Processed timber volume declined;
+    * A pilot or temporary contract ended
+    * The original customer numbers were overstated
 
+## Is Early Customer Loss Bad?
 
+* No. Early churn can be useful if the company discovers that those customers were poor fits.
+* But “they were not a good fit” cannot merely be an excuse. The investor should ask:
+    * Who ended the relationship?
+    * Why did they leave?
+    * Were they paying customers or pilots?
+    * Did they use the product regularly?
+    * Has the company changed its target-customer profile?
+    * Are the remaining customers renewing and expanding?
+    * Is revenue concentrated in one customer?
+* Losing the wrong customers can sharpen the strategy. Losing good customers because the product failed is a major warning sign.
+
+## The Projects Make an Enormous Jump
+* The company projects revenue moving from: `$180,000 → $2.2M → $6.6M → $15.7M`
+    * 2026 to 2027: more than 12× growth
+    * 2027 to 2028: 3× growth
+    * 2028 to 2029: about 2.4× growth
+* The company projects net profit rising from a $60,000 loss to: `$1.1M → $4.9M → $12.6M`
+* Thus, the final projected net margin is `$12.6M / $15.7M` or `80%`
+    * That is extraordinarily profitable
+    * The company is claiming that once its product is built, it can add revenue with very little investment
+* That might be possible for certain software companies, but it requires strong evidence
+    * How many customers and tons produce $15.7 million?
+    * How quickly must customers be added?
+    * Can sales and support expenses remain this low?
+    * Why is gross profit almost identical to revenue?
+    * Are hosting, implementation, support, commissions, and payment costs included?
+    * How does revenue fall initially and then suddenly increase more than twelvefold?
+
+## Why Would These Projections Support Debt-Based Financing?
+* A company generating that much cash should theoretically be able to repay a $1 million loan plus interest
+* Debt would let the founders:
+    * Obtain the required $1 million
+    * Repay it from future cash flow
+    * Preserve nearly all their ownership
+* Equity does not make sense here since founders would need to surrender part of their company
