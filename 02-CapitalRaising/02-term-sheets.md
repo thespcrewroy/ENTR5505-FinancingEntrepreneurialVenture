@@ -108,7 +108,9 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 + Raise      $400,000
 = Post-money $1,600,000      →   Investors: 25%   |   Founders + option pool: 75%
 ```
-*Because the option pool sits **inside the pre-money**, it dilutes only the founders, not the new investors. The founders' real valuation is lower than $1.2M*
+*Because the option pool sits **inside the pre-money**, it dilutes only the founders, not the new investors.*
+
+*The founders' real valuation is lower than $1.2M*
 
 ## Investor Rights at a Glance
 | Term | What it says | Who it favors |
