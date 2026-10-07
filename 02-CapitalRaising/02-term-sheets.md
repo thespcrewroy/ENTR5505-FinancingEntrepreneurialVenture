@@ -4,9 +4,9 @@ This activity compares three ways an early-stage company can raise money:
 
 | Document | Instrument | Amount | Valuation | Artifact |
 | -------- | ---------- | ------ | --------- | -------- |
-| Borrowing Magnolia, LLC | Convertible promissory note (debt that converts to equity) | $40,000 | $2M cap at a financing / $1.5M cap at maturity, 30% discount | [Convertible Note Term Sheet]([FILL_IN_ASSET_LINK]) |
-| Grom Inc. | Series A Preferred Stock (priced equity round) | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A Memorandum of Terms]([FILL_IN_ASSET_LINK]) |
-| Bro| Post-money SAFE, valuation cap only (Y Combinator form) | Blank template | Post-money cap (blank) | [Post-Money SAFE]([FILL_IN_ASSET_LINK]) |
+| Borrowing Magnolia, LLC | Convertible promissory note (debt that converts to equity) | $40,000 | $2M cap at a financing / $1.5M cap at maturity, 30% discount | [Convertible Note](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
+| Grom Inc. | Series A Preferred Stock (priced equity round) | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A MOA](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
+| Bro| Post-money SAFE, valuation cap only (Y Combinator form) | Blank template | Post-money cap (blank) | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.docx) |
 
 ## The Activity Questions
 With a partner, answer the following for each term sheet.
