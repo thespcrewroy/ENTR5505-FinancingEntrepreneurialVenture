@@ -1,13 +1,12 @@
 # Case Study: Reading Term Sheets Like an Investor
-> *The valuation gets the headline, but the terms decide who actually gets paid.*
 
 This activity compares three ways an early-stage company can raise money:
 
 | Document | Instrument | Amount | Valuation | Artifact |
 | -------- | ---------- | ------ | --------- | -------- |
 | Borrowing Magnolia, LLC | Convertible promissory note (debt that converts to equity) | $40,000 | $2M cap at a financing / $1.5M cap at maturity, 30% discount | [Convertible Note Term Sheet]([FILL_IN_ASSET_LINK]) |
-| ________, Inc. | Series A Preferred Stock (priced equity round) | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A Memorandum of Terms]([FILL_IN_ASSET_LINK]) |
-| [Company Name] | Post-money SAFE, valuation cap only (Y Combinator form) | Blank template | Post-money cap (blank) | [Post-Money SAFE]([FILL_IN_ASSET_LINK]) |
+| Grom Inc. | Series A Preferred Stock (priced equity round) | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A Memorandum of Terms]([FILL_IN_ASSET_LINK]) |
+| Bro| Post-money SAFE, valuation cap only (Y Combinator form) | Blank template | Post-money cap (blank) | [Post-Money SAFE]([FILL_IN_ASSET_LINK]) |
 
 ## The Activity Questions
 With a partner, answer the following for each term sheet.
@@ -47,7 +46,7 @@ as debt                                   if new equity ≥ $250K          (1) G
 ```
 - **Day 1:** the investor lends $40,000. It starts as **debt**, not ownership
 - **Interest:** 5% simple interest, or `$40,000 × 5% = $2,000 per year`, so `$44,000` is owed at 24 months
-- **Automatic conversion:** if the company raises at least **$250,000** of new equity (a "Qualified Financing"), the note turns into shares automatically
+- **Automatic conversion:** if the company raises at least **$250,000** of new equity (a "Qualified Financing"), the note turns into shares
 - **Maturity (24 months):** if no qualified financing has happened, the investor chooses:
     - **(1) Great:** convert into common stock at a **$1.5M** cap, which is cheap if the company has grown
     - **(2) Terrible:** demand repayment of `$44,000`, which a struggling startup may not be able to pay
@@ -100,7 +99,7 @@ Conversion price = the LOWER of:
 | How much is being raised? | **$400,000** |
 | What is the company valuation? | **$1.2M pre-money**, so **$1.6M post-money**. Investors own `$400K ÷ $1.6M = 25%` |
 | What rights do the investors have? | Liquidation preference, protective provisions, redemption, drag-along, anti-dilution, a board seat, information rights, pro rata rights, co-sale and right of first refusal (see the table below) |
-| Can investors invest in future rounds? | **Yes.** Pro rata rights let them buy their share of new offerings, ending at the IPO or **5 years** after the financing |
+| Can investors invest in future rounds? | **Yes.** Pro rata rights let them buy their share of new offerings, ending at the IPO or **5 years** after |
 | How much do investors get in a sale? | **Their $400K back first, and then 25% of whatever is left** (participating preferred; see below) |
 
 ## The Valuation Includes the Option Pool
@@ -109,7 +108,7 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 + Raise      $400,000
 = Post-money $1,600,000      →   Investors: 25%   |   Founders + option pool: 75%
 ```
-* Because the option pool sits **inside the pre-money**, it dilutes only the founders, not the new investors. The founders' real valuation is lower than $1.2M (the "option pool shuffle")
+*Because the option pool sits **inside the pre-money**, it dilutes only the founders, not the new investors. The founders' real valuation is lower than $1.2M*
 
 ## Investor Rights at a Glance
 | Term | What it says | Who it favors |
@@ -123,7 +122,7 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 | Board | 3 seats: 1 company, 1 investor, 1 mutually agreed independent | Balanced |
 | Pro rata rights | Can buy into future rounds until the IPO or 5 years | Investor |
 | Information rights | Annual and quarterly financials, an annual budget, inspection rights | Investor |
-| Founder vesting | 1 year credited at closing, then monthly over 3 years; 1 extra year of vesting if fired within a year of a sale | Investor (protects against founders leaving) |
+| Founder vesting | 1 year credited at closing, then monthly over 3 years; 1 extra year of vesting if fired within a year of a sale | Investor |
 | Co-sale and right of first refusal | Founders can't sell shares without investors getting a chance to join or buy first | Investor |
 | Founder activities | Founders must work 100% of their time on the company | Investor |
 
@@ -175,7 +174,7 @@ Investor payout = $400K + 25% × (Sale price − $400K)
 | ------- | ---------------- | ---- | ------------------ |
 | Is it debt? | Yes | No | No |
 | Interest | 5% | None | None |
-| Maturity / repayment risk | 24 months | None | Redemption after 5 years |
+| Maturity | 24 months | None | Redemption after 5 years |
 | Valuation set now? | No (cap + discount) | No (cap only) | Yes ($1.2M pre) |
 | Converts when | Equity round ≥ $250K | Any priced equity round | Already equity |
 | Sale before conversion | Greater of repayment or as-converted value | Greater of 1x or as-converted value | Participating 1x preference |
@@ -186,8 +185,8 @@ Investor payout = $400K + 25% × (Sale price − $400K)
 
 ## Conclusion
 * **Convertible note:** quick and cheap, but it's debt with a deadline. If no round closes in 24 months, the investor can pick the outcome that's good for them (convert cheaply) or bad for the company (demand $44K)
-* **SAFE:** removes the debt risk entirely and fixes the investor's ownership upfront. Simpler for founders, but every extra SAFE dilutes them
-* **Series A:** sets the price, but the **participating preference** and **redemption right** shift a lot of value to investors in small and mid-sized exits
+* **SAFE:** removes the debt risk entirely and fixes the investor's ownership upfront. Simpler for founders.
+* **Series A:** sets the price, but the **participating preference** and **redemption right** shift a lot of value to investors in small.
 * **The lesson:** headline valuations are only part of the deal. Check **who gets paid first, how much, and when** before comparing offers
 
 ## Practical Caveat
