@@ -123,7 +123,7 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 | Pro rata rights | Can buy into future rounds until the IPO or 5 years | Investor |
 | Information rights | Annual and quarterly financials, an annual budget, inspection rights | Investor |
 | Founder vesting | 1 year credited at closing, then monthly over 3 years; 1 extra year of vesting if fired within a year of a sale | Investor |
-| Co-sale and right of first refusal | Founders can't sell shares without investors getting a chance to join or buy first | Investor |
+| Co-Sale | Founders can't sell shares without investors getting a chance to join or buy first | Investor |
 | Founder activities | Founders must work 100% of their time on the company | Investor |
 
 ## How Much Investors Get in a Sale
