@@ -4,62 +4,87 @@
 | ---------- | ------ | --------- | -------- |
 | Convertible Promissionary Note | $40,000 | $2M cap at a financing / $1.5M cap at maturity, 30% discount | [Convertible Note](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
 | Series A Preferred Stock | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A MOA](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
-| Post-money SAFE | Blank template | Post-money cap (blank) | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.docx) |
-
-## The Activity Questions
-With a partner, answer the following for each term sheet.
-
-**Convertible note ($40K raise):**
-1. What type of investor does this deal?
-2. What type of company [entity] is this?
-3. What type of deal is this?
-4. Where is this company located?
-5. How much is being raised?
-6. What is the company valuation?
-7. What happens if the company is acquired? Why is this important?
-8. What two terms are the most important to worry about in this term sheet?
-
-**Series A Memorandum of Terms:**
-1. What type of company [entity] is this?
-2. What type of deal is this?
-3. Where is this company located?
-4. How much is being raised?
-5. What is the company valuation?
-6. What rights do the investors have?
-7. Can investors continue to invest in future rounds of financing?
-8. How much money do the investors receive in the event of a sale?
-
-**Twist:** Repeat the analysis for a SAFE (Simple Agreement for Future Equity).
+| Post-money SAFE | Template | Template | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.docx) |
 
 ---
 
 # Part 1: Convertible Note ($40K Raise)
 
-## The Timeline from the Whiteboard
-```
-Day 1            Interest (5%)          Qualified Financing           24 months (Maturity)
-|------------------------|------------------------|-----------------------------|
-$40K lent         $2,000/year accrues     Automatic conversion          Voluntary conversion
-as debt                                   if new equity ≥ $250K          (1) Great  or  (2) Terrible
-```
-- **Day 1:** the investor lends $40,000. It starts as **debt**, not ownership
+## Timeline
+
+- **Lending (Day 1):** the investor lends $40,000. It starts as **debt**, not ownership
 - **Interest:** 5% simple interest, or `$40,000 × 5% = $2,000 per year`, so `$44,000` is owed at 24 months
-- **Automatic conversion:** if the company raises at least **$250,000** of new equity (a "Qualified Financing"), the note turns into shares
+- **Automatic Conversion:** if the company raises at least **$250,000** of new equity (a "Qualified Financing"), the note turns into shares
 - **Maturity (24 months):** if no qualified financing has happened, the investor chooses:
     - **(1) Great:** convert into common stock at a **$1.5M** cap, which is cheap if the company has grown
     - **(2) Terrible:** demand repayment of `$44,000`, which a struggling startup may not be able to pay
 
 ## Answers to the Activity Questions
-| Question | Answer |
-| -------- | ------ |
-| What type of investor does this deal? | Friends, family or an early angel. $40K is a small, simple, unsecured check |
-| What type of company [entity] is this? | A **Virginia LLC** (see the red flag below) |
-| What type of deal is this? | A **convertible promissory note**: debt now, equity later |
-| Where is this company located? | Virginia |
-| How much is being raised? | **$40,000** |
-| What is the company valuation? | **Not set today.** The note delays pricing until the next round, subject to a **$2M cap**, a **30% discount** (converts at 70% of the new price), and a **$1.5M cap** if converted at maturity |
-| What happens if the company is acquired? | Before a qualified financing, the investor gets the **greater of** (a) principal + interest, or (b) what they'd receive by converting at the $1.5M cap |
-| What two terms matter most? | (1) **The conversion price**: the $2M cap and 30% discount. (2) **Maturity and repayment**: what happens at 24 months if no round closes |
+<details>
+<summary><b>What type of investor does this deal?</b></summary>
+<br>
+
+Friends, family or an early angel. $40K is a small, simple, unsecured check
+
+</details>
+
+<details>
+<summary><b>What type of company [entity] is this?</b></summary>
+<br>
+
+Virginia LLC
+
+</details>
+
+<details>
+<summary><b>What type of deal is this?</b></summary>
+<br>
+
+A **convertible promissory note**: debt now, equity later
+
+</details>
+
+<details>
+<summary><b>Where is this company located?</b></summary>
+<br>
+
+Virginia
+
+</details>
+
+<details>
+<summary><b>How much is being raised?</b></summary>
+<br>
+
+$40,000
+
+</details>
+
+<details>
+<summary><b>What is the company valuation?</b></summary>
+<br>
+
+Not set today. The note delays pricing until the next round, subject to a $2M cap, a 30% discount (converts at 70% of the new price), and a $1.5M cap if converted at maturity.
+
+</details>
+
+<details>
+<summary><b>What happens if the company is acquired?</b></summary>
+<br>
+
+Before a qualified financing, the investor gets the greater of:
+1. Principal + interest
+2. What they'd receive by converting at the $1.5M cap
+
+</details>
+
+<details>
+<summary><b>What two terms matter most?/b></summary>
+<br>
+
+1. The conversion price: the $2M cap and 30% discount
+2. Maturity and Repayment: what happens at 24 months if no round closes
+</details>
 
 ## How Conversion Works
 ```
