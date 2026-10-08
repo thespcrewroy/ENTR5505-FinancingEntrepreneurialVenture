@@ -180,7 +180,7 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 | Liquidation preference | 1x money back first, **then participates** pro rata with common | Investor (strongly) |
 | Conversion | Optional 1:1 into common; automatic at an IPO or by majority vote | Neutral |
 | Protective provisions | 51% of the Preferred must approve charter changes, new Preferred shares, or any merger or sale | Investor |
-| Redemption | After **5 years**, investors can force the company to buy back their shares at the original price | Investor (a "put") |
+| Redemption | After 5 years, investors can force the company to buy back their shares at the original price | Investor (a "put") |
 | Drag-along | Founders must vote for an approved sale | Investor |
 | Anti-dilution | Weighted average adjustment in a down round | Investor (moderate) |
 | Board | 3 seats: 1 company, 1 investor, 1 mutually agreed independent | Balanced |
