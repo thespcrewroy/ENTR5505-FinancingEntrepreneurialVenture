@@ -177,18 +177,18 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 ## Investor Rights at a Glance
 | Term | What it says | Who it favors |
 | ---- | ------------ | ------------- |
-| Liquidation preference | 1x money back first, **then participates** pro rata with common | Investor (strongly) |
+| Liquidation Preference | 1x money back first, **then participates** pro rata with common | Investor (strongly) |
 | Conversion | Optional 1:1 into common; automatic at an IPO or by majority vote | Neutral |
-| Protective provisions | 51% of the Preferred must approve charter changes, new Preferred shares, or any merger or sale | Investor |
-| Redemption | After 5 years, investors can force the company to buy back their shares at the original price | Investor (a "put") |
-| Drag-along | Founders must vote for an approved sale | Investor |
-| Anti-dilution | Weighted average adjustment in a down round | Investor (moderate) |
+| Protective Provisions | 51% must approve charter changes, new preferred shares, merger, or sale | Investor |
+| Redemption | After 5 years, investors can force the company to buy back shares at the original price | Investor |
+| Drag-Along | Founders must vote for an approved sale | Investor |
+| Anti-Dilution | Weighted average adjustment in a down round | Investor (moderate) |
 | Board | 3 seats: 1 company, 1 investor, 1 mutually agreed independent | Balanced |
-| Pro rata rights | Can buy into future rounds until the IPO or 5 years | Investor |
-| Information rights | Annual and quarterly financials, an annual budget, inspection rights | Investor |
-| Founder vesting | 1 year credited at closing, then monthly over 3 years; 1 extra year of vesting if fired within a year of a sale | Investor |
+| Pro Rata Rights | Can buy into future rounds until the IPO or 5 years | Investor |
+| Information Rights | Annual and quarterly financials, an annual budget, inspection rights | Investor |
+| Founder Vesting | 1 year at closing, then monthly for 3 years. 1 extra year if fired within a year sold | Investor |
 | Co-Sale | Founders can't sell shares without investors getting a chance to join or buy first | Investor |
-| Founder activities | Founders must work 100% of their time on the company | Investor |
+| Founder Activities | Founders must work 100% of their time on the company | Investor |
 
 ## How Much Investors Get in a Sale
 ```
