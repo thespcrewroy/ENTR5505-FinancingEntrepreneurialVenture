@@ -268,19 +268,6 @@ Greater of money back (1x) or the as-converted value
 2. Total SAFEs outstanding because stacking SAFEs quietly dilutes the founders
 
 </details>
-
-## Convertible Note vs. SAFE vs. Series A
-| Feature | Convertible Note | SAFE | Series A Preferred |
-| ------- | ---------------- | ---- | ------------------ |
-| Is it debt? | Yes | No | No |
-| Interest | 5% | None | None |
-| Maturity | 24 months | None | Redemption after 5 years |
-| Valuation set now? | No (cap + discount) | No (cap only) | Yes ($1.2M pre) |
-| Converts when | Equity round ≥ $250K | Any priced equity round | Already equity |
-| Sale before conversion | Greater of repayment or as-converted | Greater of 1x or as-converted | Participating 1x preference |
-| Board seat / control | None | None | Board seat |
-| Legal cost and speed | Low and fast | Lowest and fastest | High and slow |
-
 ---
 
 ## Conclusion
