@@ -216,7 +216,7 @@ Investor Payout = $400K + 25% × (Sale Price − $400K)
 <summary><b>What type of investor does this deal?</b></summary>
 <br>
 
-Angels and accelerators
+Angels and accelerators.
 
 </details>
 
@@ -224,7 +224,7 @@ Angels and accelerators
 <summary><b>What type of company [entity] is this?</b></summary>
 <br>
 
-A corporation. SAFEs assume stock, so like the note, it doesn't fit an LLC
+A corporation. SAFEs assume stock which doesn't fit an LLC model.
 
 </details>
 
@@ -232,7 +232,7 @@ A corporation. SAFEs assume stock, so like the note, it doesn't fit an LLC
 <summary><b>What type of deal is this?</b></summary>
 <br>
 
-A post-money SAFE, valuation cap only
+A post-money SAFE with a valuation cap only.
 
 </details>
 
@@ -240,7 +240,7 @@ A post-money SAFE, valuation cap only
 <summary><b>How much is being raised?</b></summary>
 <br>
 
-Purchase Amount
+Purchase Amount.
 
 </details>
 
@@ -248,7 +248,7 @@ Purchase Amount
 <summary><b>What is the company valuation?</b></summary>
 <br>
 
-Post-Money Valuation Cap
+Post-Money Valuation Cap.
 
 </details>
 
@@ -256,7 +256,7 @@ Post-Money Valuation Cap
 <summary><b>What happens if the company is acquired?</b></summary>
 <br>
 
-Greater of money back (1x) or the as-converted value
+Greater of money back (1x) or the as-converted value.
 
 </details>
 
