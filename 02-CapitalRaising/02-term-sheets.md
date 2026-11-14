@@ -184,7 +184,7 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 
 ## How Much Investors Get in a Sale
 ```
-Investor payout = $400K + 25% × (Sale price − $400K)
+Investor Payout = $400K + 25% × (Sale Price − $400K)
 ```
 | Sale price | Participating (this term sheet) | Investor % | Non-participating (standard) | Investor % |
 | ---------- | ------------------------------- | ---------- | ---------------------------- | ---------- |
