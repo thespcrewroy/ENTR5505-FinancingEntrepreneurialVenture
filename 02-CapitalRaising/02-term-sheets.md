@@ -186,7 +186,7 @@ Pre-money  $1,200,000 (INCLUDING the employee option pool)
 ```
 Investor Payout = $400K + 25% × (Sale Price − $400K)
 ```
-| Sale price | Participating (this term sheet) | Investor % | Non-participating (standard) | Investor % |
+| Sale price | Participating (This Term Sheet) | Investor % | Non-Participating (Standard) | Investor % |
 | ---------- | ------------------------------- | ---------- | ---------------------------- | ---------- |
 | $1M | $400K + $150K = **$550K** | 55% | $400K | 40% |
 | $2M | $400K + $400K = **$800K** | 40% | $500K | 25% |
