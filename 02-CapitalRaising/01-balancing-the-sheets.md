@@ -119,25 +119,10 @@ ENDING CASH BALANCE                         $32,800
 ```
 
 ## Paul Reports a Large Profit Margin
-Paul's net margin is at `$12,950/$27,800` or 46.6%. Keeping nearly 47 cents of every revenue dollar as profit looks excellent on paper. However, the absolute revenue is tiny at only $27,800. A high margin on a small business does not automatically create an attractive investment
+Paul's net margin is at `$12,950/$27,800` or 46.6%. Keeping nearly 47 cents of every revenue dollar as profit looks excellent on paper. However, the absolute revenue is tiny at only $27,800. A high margin on a small business does not create an attractive investment
 
 ## Important Costs are Artificially Low
-```
-Wage expense:    $750
-Rent expense:    $500
-```
-* Those amounts are extraordinarily low for an entire year
-* Paul works full-time but does not pay himself a normal salary
-* The company looks more profitable because Paul is effectively donating his labor
-* If the shop has unusually cheap or subsidized rent, its current profit may not continue after moving or expanding
+The amounts for wages and rent extraordinarily low for an entire year. Paul seems to work full-time, but does not pay himself a normal salary. The company looks more profitable because Paul is effectively donating his labor. If the shop has unusually cheap or on subsidized rent, its current profit may not continue after moving or expanding
 
 ## Short Operating History
-* Let's assume the shop opened only about a month earlier
-* Earning $27,800 of revenue so quickly could then be encouraging
-* However, one month cannot establish: demand, customer retention, season patterns, inventory needs, etc.
-
-## Fundraise?
-```
-1. Why do we need to raise money?
-2. How much money do we need to raise?
-```
+Let's assume the shop opened only about a month earlier. Earning $27,800 off of revenue so quickly could then be encouraging. However, one month cannot establish: demand, customer retention, season patterns, inventory needs, etc.
