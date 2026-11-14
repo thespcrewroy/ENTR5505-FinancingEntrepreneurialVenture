@@ -83,7 +83,7 @@ Before a qualified financing, the investor gets the greater of:
 <br>
 
 1. The conversion price: the $2M cap and 30% discount
-2. Maturity and Repayment: what happens at 24 months if no round closes
+2. Maturity and repayment: what happens at 24 months if no round closes
 </details>
 
 ## How Conversion Works
