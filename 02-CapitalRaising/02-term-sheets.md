@@ -6,7 +6,7 @@
 | Series A Preferred Stock | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A MOA](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
 | Post-money SAFE | Template | Template | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
 | Seed Preferred Stock | Template | Pre-money, including the option pool | [Light Example Term Sheet](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
-| Indie.VC Agreement | Template | Fixed ownership Percentage, no cap | [Revenue Redemption Indie.VC Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
+| Indie.VC Agreement | Template | Fixed ownership Percentage, no cap | [Revenue Redemption Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
 | Calm Fund Company SEA | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
 
 ---
