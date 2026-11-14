@@ -24,7 +24,7 @@
 <summary><b>What type of investor does this deal?</b></summary>
 <br>
 
-Friends, family or an early angel. $40K is a small, simple, unsecured check
+Friends, family, or an early angel. $40K is a small, simple, unsecured check
 
 </details>
 
