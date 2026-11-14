@@ -24,7 +24,7 @@
 <summary><b>What type of investor does this deal?</b></summary>
 <br>
 
-Friends, family, or an early angel. $40K is a small, simple, unsecured check
+Friends, family, or an early angel. $40K is a small, simple, unsecured check.
 
 </details>
 
@@ -32,7 +32,7 @@ Friends, family, or an early angel. $40K is a small, simple, unsecured check
 <summary><b>What type of company [entity] is this?</b></summary>
 <br>
 
-Virginia LLC
+Virginia LLC.
 
 </details>
 
@@ -40,7 +40,7 @@ Virginia LLC
 <summary><b>What type of deal is this?</b></summary>
 <br>
 
-A **convertible promissory note**: debt now, equity later
+A convertible promissory note that produces debt now and equity later.
 
 </details>
 
@@ -48,7 +48,7 @@ A **convertible promissory note**: debt now, equity later
 <summary><b>Where is this company located?</b></summary>
 <br>
 
-Virginia
+Virginia.
 
 </details>
 
@@ -56,7 +56,7 @@ Virginia
 <summary><b>How much is being raised?</b></summary>
 <br>
 
-$40,000
+$40,000.
 
 </details>
 
@@ -73,7 +73,7 @@ Not set today. The note delays pricing until the next round, subject to a $2M ca
 <br>
 
 Before a qualified financing, the investor gets the greater of:
-1. Principal + interest
+1. Principal and interest
 2. What they'd receive by converting at the $1.5M cap
 
 </details>
@@ -107,7 +107,7 @@ Before a qualified financing, the investor gets the greater of:
 <summary><b>What type of company [entity] is this?</b></summary>
 <br>
 
-A Delaware corporation (the standard for VC-backed startups)
+A Delaware corporation. This is the standard for VC-backed startups.
 
 </details>
 
@@ -115,7 +115,7 @@ A Delaware corporation (the standard for VC-backed startups)
 <summary><b>What type of deal is this?</b></summary>
 <br>
 
-A priced equity round: Series A Preferred Stock
+Series A Preferred Stock Priced Equity Round.
 
 </details>
 
@@ -123,7 +123,7 @@ A priced equity round: Series A Preferred Stock
 <summary><b>Where is this company located?</b></summary>
 <br>
 
-Incorporated in Delaware; the operating location isn't stated
+Incorporated in Delaware, however, the operating location isn't stated.
 
 </details>
 
@@ -131,7 +131,7 @@ Incorporated in Delaware; the operating location isn't stated
 <summary><b>How much is being raised?</b></summary>
 <br>
 
-$400,000
+$400,000.
 
 </details>
 
@@ -139,7 +139,7 @@ $400,000
 <summary><b>What is the company valuation?</b></summary>
 <br>
 
-$1.2M pre-money, so $1.6M post-money. Investors own $400K ÷ $1.6M = 25%
+$1.2M pre-money means a $1.6M post-money. Investors own $400K ÷ $1.6M = 25%.
 
 </details>
 
@@ -147,7 +147,7 @@ $1.2M pre-money, so $1.6M post-money. Investors own $400K ÷ $1.6M = 25%
 <summary><b>Can investors invest in future rounds?</b></summary>
 <br>
 
-Yes. Pro rata rights let them buy their share of new offerings, ending at the IPO or 5 years after
+Yes. Pro rata rights let them buy their share of new offerings ending at the IPO or 5 years after.
 
 </details>
 
@@ -155,7 +155,7 @@ Yes. Pro rata rights let them buy their share of new offerings, ending at the IP
 <summary><b>How much do investors get in a sale?</b></summary>
 <br>
 
-Their $400K back first, and then 25% of whatever is left (participating preferred; see below)
+Their $400K back first, and then 25% of whatever is left at preferred participation.
 
 </details>
 
