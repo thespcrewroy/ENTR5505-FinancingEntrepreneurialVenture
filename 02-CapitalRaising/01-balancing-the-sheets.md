@@ -119,10 +119,7 @@ ENDING CASH BALANCE                         $32,800
 ```
 
 ## Paul Reports a Large Profit Margin
-* Paul's net margin is at `$12,950/$27,800` or 46.6%
-* On paper, keeping nearly 47 cents of every revenue dollar as profit looks excellent
-* But the absolute revenue is tiny at only $27,800
-* A high margin on a small business does not automatically create an attractive investment
+Paul's net margin is at `$12,950/$27,800` or 46.6%. Keeping nearly 47 cents of every revenue dollar as profit looks excellent on paper. However, the absolute revenue is tiny at only $27,800. A high margin on a small business does not automatically create an attractive investment
 
 ## Important Costs are Artificially Low
 ```
