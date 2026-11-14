@@ -268,6 +268,7 @@ Greater of money back (1x) or the as-converted value
 2. Total SAFEs outstanding because stacking SAFEs quietly dilutes the founders
 
 </details>
+
 ---
 
 ## Conclusion
