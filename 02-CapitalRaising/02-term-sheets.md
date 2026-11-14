@@ -159,11 +159,11 @@ Their $400K back first, and then 25% of whatever is left at preferred participat
 
 </details>
 
-## The Valuation Includes the Option Pool
+## Option Pool Calculation
 ```
 Pre-money  $1,200,000 (INCLUDING the employee option pool)
 + Raise      $400,000
-= Post-money $1,600,000      →   Investors: 25%   |   Founders + option pool: 75%
+= Post-money $1,600,000      →   Investors: 25%   |   Founders + Option Pool: 75%
 ```
 
 ## Investor Rights at a Glance
