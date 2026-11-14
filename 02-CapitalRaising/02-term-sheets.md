@@ -7,7 +7,7 @@
 | Post-money SAFE | Template | Template | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
 | Seed Preferred Stock | Template | Pre-money, including the option pool | [Example Term Sheet](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
 | Indie.VC Agreement | Template | Fixed ownership Percentage, no cap | [Indie.VC Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
-| Calm Company Shared Earnings Agreement | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
+| Calm Fund Shared Earnings Agreement | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
 
 ---
 
