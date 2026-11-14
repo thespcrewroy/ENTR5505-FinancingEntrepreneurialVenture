@@ -1,6 +1,6 @@
 # Balancing the Sheets
 
-## Income Statement - Did the Business Report a Profit?
+## Income Statement
 ```
 Paul's Guitar Shop, Inc.
 Income Statement
@@ -26,7 +26,7 @@ Total expenses                              $14,850
 NET INCOME                                  $12,950
 ```
 
-## Balance Sheet - What Does it Own and Owe?
+## Balance Sheet
 ```
 Paul's Guitar Shop, Inc.
 Balance Sheet
@@ -74,7 +74,7 @@ Total owner's equity                       $21,950
 TOTAL LIABILITIES AND OWNER'S EQUITY       $171,900
 ```
 
-## Cash Flow Statement - Where did the Cash Come From and Where is it Going?
+## Cash Flow Statement
 ```
 Paul's Guitar Shop
 Statement of Cash Flows
