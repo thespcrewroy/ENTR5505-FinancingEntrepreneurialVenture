@@ -5,9 +5,9 @@
 | Convertible Promissionary Note | $40,000 | $2M cap at a financing / $1.5M cap at maturity, 30% discount | [Convertible Note](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
 | Series A Preferred Stock | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A MOA](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
 | Post-money SAFE | Template | Template | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
-| Seed Preferred Stock | Template | Pre-money, including the option pool | [Example Term Sheet](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
-| Indie.VC Agreement | Template | Fixed ownership Percentage, no cap | [Indie.VC Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
-| Calm Fund Shared Earnings Agreement | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
+| Seed Preferred Stock | Template | Pre-money, including the option pool | [Light Example Term Sheet](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
+| Indie.VC Agreement | Template | Fixed ownership Percentage, no cap | [Revenue Redemption Indie.VC Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
+| Calm Fund Company SEA | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Agreement](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
 
 ---
 
