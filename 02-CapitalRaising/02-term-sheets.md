@@ -144,14 +144,6 @@ $1.2M pre-money, so $1.6M post-money. Investors own $400K ÷ $1.6M = 25%
 </details>
 
 <details>
-<summary><b>What rights do the investors have?</b></summary>
-<br>
-
-Liquidation preference, protective provisions, redemption, drag-along, anti-dilution, a board seat, information rights, pro rata rights, co-sale and right of first refusal (see the table below)
-
-</details>
-
-<details>
 <summary><b>Can investors invest in future rounds?</b></summary>
 <br>
 
