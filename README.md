@@ -47,7 +47,7 @@ ENTR 5500 (Introduction to Entrepreneurship)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#directory-structure)
 
 ## Materials
-Course Packet ENTR 55/5 Bel-Jean Copy-Print Center
+Course Packet ENTR 5505 Bel-Jean Copy-Print Center
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#grading)
 
