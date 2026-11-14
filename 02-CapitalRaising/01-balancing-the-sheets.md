@@ -1,6 +1,6 @@
 # Balancing the Sheets
 
-## Income Statement
+### Income Statement
 ```
 Paul's Guitar Shop, Inc.
 Income Statement
@@ -26,7 +26,7 @@ Total expenses                              $14,850
 NET INCOME                                  $12,950
 ```
 
-## Balance Sheet
+### Balance Sheet
 ```
 Paul's Guitar Shop, Inc.
 Balance Sheet
@@ -74,7 +74,7 @@ Total owner's equity                       $21,950
 TOTAL LIABILITIES AND OWNER'S EQUITY       $171,900
 ```
 
-## Cash Flow Statement
+### Cash Flow Statement
 ```
 Paul's Guitar Shop
 Statement of Cash Flows
@@ -118,13 +118,13 @@ Beginning cash balance                            0
 ENDING CASH BALANCE                         $32,800
 ```
 
-### Paul Reports a Large Profit Margin
+## Paul Reports a Large Profit Margin
 * Paul's net margin is at `$12,950/$27,800` or 46.6%
 * On paper, keeping nearly 47 cents of every revenue dollar as profit looks excellent
 * But the absolute revenue is tiny at only $27,800
 * A high margin on a small business does not automatically create an attractive investment
 
-### Important Costs are Artificially Low
+## Important Costs are Artificially Low
 ```
 Wage expense:    $750
 Rent expense:    $500
@@ -134,7 +134,7 @@ Rent expense:    $500
 * The company looks more profitable because Paul is effectively donating his labor
 * If the shop has unusually cheap or subsidized rent, its current profit may not continue after moving or expanding
 
-### Short Operating History
+## Short Operating History
 * Let's assume the shop opened only about a month earlier
 * Earning $27,800 of revenue so quickly could then be encouraging
 * However, one month cannot establish: demand, customer retention, season patterns, inventory needs, etc.
