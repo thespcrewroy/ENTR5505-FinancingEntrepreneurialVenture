@@ -15,7 +15,7 @@
 
 ## Timeline
 
-- **Lending:** the investor lends $40,000 on day 1. It starts as debt instead of ownership
+- **Lending:** the investor lends $40,000 on day 1. It starts as debt instead of ownership. It is due back with interest after 24 months
 - **Debt Start:** 5% simple interest (`$2,000 per year`). $44,000 is owed at 24 months
 - **Automatic Conversion:** if the company raises at least **$250,000** of new equity (a "Qualified Financing"), the note turns into shares
 - **Maturity (24 months):** if no qualified financing has happened, the investor chooses:
