@@ -11,7 +11,7 @@
 
 ---
 
-# Part 1: Convertible Note ($40K Raise)
+# Instrument: Pre-Seed Angel Convertible Note
 
 ## Timeline
 - **Lending:** the investor lends $40,000 as debt instead of ownership with a maturity date of 24 months
@@ -24,21 +24,21 @@
 
 ### Scenario 1: A Qualified Financing Happens (Month 12)
 - The note converts the angel's debt into equity alongside the VC investor's investment
-- The angel's equity is now the same preferred stock on the same closing day
-- At month 12, with $2,000 worth of simple interest accruing each anum, this means $42,000 in debt converts to equity
+- The angel's equity gets the same rights as the VC investor's preferred stock
+- $42,000 converts into equity (`$40,000 loan x 1.05 interest = $42,000`)
 - The investor gets the lower price per share from the following two scenarios to give themselves more shares:
     - **Discount Price:** 70% of the VC investor's calculated price per share
     - **Cap Price:** `$2M ÷ 1,000,000 shares = $2.00` per share
-- **Tipping point:** a pre-money of about **$2.86M** (70% × $2.86M = $2M). Above it the cap wins; below it the discount wins
+- A pre-money valuation of about **$2.86M** is the tipping point (`0.70 discount × $2.86M = $2M`)
 
 **1a. The Cap Wins**
 - VC investor and founder negotiate a $3 million pre-money valuation based on its perceived worth
-- VC investor leads with a $500,000 investment
-- VC investor pays $3.00 per share (`$3M ÷ 1,000,000 shares = $3.00`)
-- Next round at a **$3M pre-money**, so Investor B pays  per share
-- 70% of $3M is $2.1M, but the cap is $2M, so the note converts at a **$2M valuation** (`$2.00` per share)
-- Angel shares: `$42,000 ÷ $2.00 = 21,000`
-- Before Investor B's shares: `$42,000 ÷ $2M ≈ 2.1%`
+- VC investor leads Seed round with a $500,000 investment
+- VC investor pays $3.00 per share (`$3M ÷ 1,000,000 shares = $3.00 per share`)
+- VC gets 166,667 shares (`$500,000 ÷ $3.00 per share = 166666.66... shares`)
+- The note converts at the lower $2M capped pre-money valuation (`0.70 x $3M = $2.1M > $2M`)
+- Angel investor pays $2.00 per share (`$2M ÷ 1,000,000 shares = $2.00 per share`)
+- Angel investor gets 21,000 shares (`$42,000 ÷ $2.00 per share = 21,000 shares`)
 
 | Holder | Shares | Ownership After the Round | Price per Share |
 | ------ | ------ | ------------------------- | --------------- |
