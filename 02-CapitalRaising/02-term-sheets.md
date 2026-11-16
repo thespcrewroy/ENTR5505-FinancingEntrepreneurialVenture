@@ -2,41 +2,40 @@
 
 | Instrument | Amount | Valuation | Artifact |
 | ---------- | ------ | --------- | -------- |
-| Convertible Promissionary Note | $40,000 | $2M cap at a financing / $1.5M cap at maturity, 30% discount | [Convertible Note](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
-| Series A Preferred Stock | $400,000 | $1.2M pre-money / $1.6M post-money | [Series A MOA](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
-| Post-money SAFE | Template | Template | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
-| Seed Preferred Stock | Template | Pre-money, including the option pool | [Light Term Sheet](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
+| Convertible Promissory Note | $40,000 | $2M cap or 30% discount at financing vs. $1.5M cap at maturity  | [Convertible Note](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
+| Series A Preferred Stock | $400,000 | $1.2M pre-money and $1.6M post-money | [Series A MOA](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
+| Post-Money SAFE | Template | Template | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
+| Seed Preferred Stock | Template | Pre-money plus the option pool | [Light Term Sheet](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
 | Indie.VC Agreement | Template | Fixed ownership Percentage, no cap | [Revenue Redemption](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
-| Calm Fund Company SEA | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Ag.](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
+| Calm Company Fund SEA | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Ag.](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
 
 ---
 
 # Part 1: Convertible Note ($40K Raise)
 
 ## Timeline
+- **Lending:** the investor lends $40,000 as debt instead of ownership with a maturity date of 24 months
+- **Debt Start:** 5% simple interest of $2,000 per year (`0.05 x $40,000 = $2,000`), building up daily and added to what converts
+- **Automatic Conversion:** if the company raises at least $250,000 of new equity (a "Qualified Financing"), the note turns into shares
+- **Maturity (24 months):** if no qualified financing has happened, the investor chooses between a $1.5M cap or $42,000 debt repayment
 
-- **Lending:** the investor lends $40,000 on day 1. It starts as **debt** instead of ownership, due back with interest after 24 months
-- **Debt Start:** 5% simple interest (`$2,000 per year`), building up daily and added to what converts. $44,000 is owed at 24 months
-- **Automatic Conversion:** if the company raises at least **$250,000** of new equity (a "Qualified Financing"), the note turns into shares
-- **Maturity (24 months):** if no qualified financing has happened, the investor chooses:
-    - **(1) Great:** convert into common stock at a **$1.5M** cap, which is cheap if the company has grown
-    - **(2) Terrible:** demand repayment of `$44,000`, which a struggling startup may not be able to pay
+*Assumption: the founder owns 1,000,000 shares*
 
-## The Three Scenarios
-
-*Assumptions for the examples: the founder owns 1,000,000 shares, and a new Investor B leads the next round with $500,000.*
 
 ### Scenario 1: A Qualified Financing Happens (Month 12)
-
-- The note converts **alongside** Investor B, into the same preferred stock, on the same closing day
-- At month 12, `$40,000 + $2,000 interest = $42,000` converts
-- The investor gets whichever price is **lower**, which gives them **more shares**:
-    - **Discount price:** 70% of Investor B's price per share
-    - **Cap price:** `$2M ÷ 1,000,000 shares = $2.00` per share
+- The note converts the angel's debt into equity alongside the VC investor's investment
+- The angel's equity is now the same preferred stock on the same closing day
+- At month 12, with $2,000 worth of simple interest accruing each anum, this means $42,000 in debt converts to equity
+- The investor gets the lower price per share from the following two scenarios to give themselves more shares:
+    - **Discount Price:** 70% of the VC investor's calculated price per share
+    - **Cap Price:** `$2M ÷ 1,000,000 shares = $2.00` per share
 - **Tipping point:** a pre-money of about **$2.86M** (70% × $2.86M = $2M). Above it the cap wins; below it the discount wins
 
 **1a. The Cap Wins**
-- Next round at a **$3M pre-money**, so Investor B pays `$3M ÷ 1,000,000 = $3.00` per share
+- VC investor and founder negotiate a $3 million pre-money valuation based on its perceived worth
+- VC investor leads with a $500,000 investment
+- VC investor pays $3.00 per share (`$3M ÷ 1,000,000 shares = $3.00`)
+- Next round at a **$3M pre-money**, so Investor B pays  per share
 - 70% of $3M is $2.1M, but the cap is $2M, so the note converts at a **$2M valuation** (`$2.00` per share)
 - Angel shares: `$42,000 ÷ $2.00 = 21,000`
 - Before Investor B's shares: `$42,000 ÷ $2M ≈ 2.1%`
