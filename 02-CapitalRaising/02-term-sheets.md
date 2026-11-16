@@ -171,7 +171,7 @@ The investor gets the greater of:
   
 ---
 
-# Part 2: Series A Memorandum of Terms ($400K Raise)
+# Instrument: Series A Memorandum of Terms
 
 ## Answers to the Activity Questions
 <details>
@@ -186,7 +186,7 @@ A Delaware corporation. This is the standard for VC-backed startups.
 <summary><b>What type of deal is this?</b></summary>
 <br>
 
-Series A Preferred Stock Priced Equity Round.
+Series A Preferred Stock Priced-Equity Round.
 
 </details>
 
@@ -194,7 +194,7 @@ Series A Preferred Stock Priced Equity Round.
 <summary><b>Where is this company located?</b></summary>
 <br>
 
-Incorporated in Delaware, however, the operating location isn't stated.
+Incorporated in Delaware.
 
 </details>
 
@@ -210,7 +210,7 @@ $400,000.
 <summary><b>What is the company valuation?</b></summary>
 <br>
 
-$1.2M pre-money means a $1.6M post-money. Investors own $400K ÷ $1.6M = 25%.
+$1.2M pre-money and $1.6M post-money valuation with investors owning 25% (`$400,000 ÷ $1.6M = 25%`).
 
 </details>
 
@@ -218,7 +218,7 @@ $1.2M pre-money means a $1.6M post-money. Investors own $400K ÷ $1.6M = 25%.
 <summary><b>Can investors invest in future rounds?</b></summary>
 <br>
 
-Yes. Pro rata rights let them buy their share of new offerings ending at the IPO or 5 years after.
+Yes. Pro rata rights let them buy their share of new rounds. This privelage ends after 5 years or at the IPO.
 
 </details>
 
@@ -226,61 +226,38 @@ Yes. Pro rata rights let them buy their share of new offerings ending at the IPO
 <summary><b>How much do investors get in a sale?</b></summary>
 <br>
 
-Their $400K back first, and then 25% of whatever is left at preferred participation.
+$400K back immediately, followed by 25% of whatever is left at participation preferred.
 
 </details>
-
-## Option Pool Calculation
-```
-Pre-money  $1,200,000 (INCLUDING the employee option pool)
-+ Raise      $400,000
-= Post-money $1,600,000      →   Investors: 25%   |   Founders + Option Pool: 75%
-```
 
 ## Investor Rights at a Glance
 | Term | What it says | Who it favors |
 | ---- | ------------ | ------------- |
-| Liquidation Preference | 1x money back first, **then participates** pro rata with common | Investor (strongly) |
-| Conversion | Optional 1:1 into common; automatic at an IPO or by majority vote | Neutral |
+| Liquidation Preference | 1x money back on a sale. Then, optional pro rata with common stock | Investor |
+| Conversion | Optional 1:1 conversion from preferred to common stock automatic by IPO or vote | Neutral |
 | Protective Provisions | 51% must approve charter changes, new preferred shares, merger, or sale | Investor |
-| Redemption | After 5 years, investors can force the company to buy back shares at the original price | Investor |
+| Redemption | Investors can force company to buy back shares after 5 years | Investor |
 | Drag-Along | Founders must vote for an approved sale | Investor |
-| Anti-Dilution | Weighted average adjustment in a down round | Investor (moderate) |
-| Board | 3 seats: 1 company, 1 investor, 1 mutually agreed independent | Balanced |
-| Pro Rata Rights | Can buy into future rounds until the IPO or 5 years | Investor |
+| Anti-Dilution | Weighted average adjustment in a down round | Investor |
+| Board | 3 seats: 1 company, 1 investor, 1 mutually agreed independent | Neutral |
+| Pro Rata Rights | Can invest future rounds for 5 years or until an IPO | Investor |
 | Information Rights | Annual and quarterly financials, an annual budget, inspection rights | Investor |
-| Founder Vesting | 1 year at closing, then monthly for 3 years. 1 extra year if fired within a year sold | Investor |
-| Co-Sale | Founders can't sell shares without investors getting a chance to join or buy first | Investor |
+| Founder Vesting | 1 year close then monthly for 3 years. 1 extra year if fired within a year sold | Investor |
+| Co-Sale | Founders can't sell shares without investors getting a chance to join or buy them first | Investor |
 | Founder Activities | Founders must work 100% of their time on the company | Investor |
-
-## How Much Investors Get in a Sale
-```
-Investor Payout = $400K + 25% × (Sale Price − $400K)
-```
-| Sale price | Participating (This Term Sheet) | Investor % | Non-Participating (Standard) | Investor % |
-| ---------- | ------------------------------- | ---------- | ---------------------------- | ---------- |
-| $1M | $400K + $150K = **$550K** | 55% | $400K | 40% |
-| $2M | $400K + $400K = **$800K** | 40% | $500K | 25% |
-| $5M | $400K + $1.15M = **$1.55M** | 31% | $1.25M | 25% |
-| $10M | $400K + $2.4M = **$2.8M** | 28% | $2.5M | 25% |
-
-* The preference is participating with no cap where investors take their money back and 25% of the rest
-* In a small sale, investors take far more than their 25% (55% of a $1M sale)
-* The gap narrows in big outcomes, but investors always take more than their ownership share
-* Founder's most important term to negotiate, followed by the 5-year redemption right, which lets investors demand their money back
 
 ---
 
-# Part 3: The Twist: SAFE (Simple Agreement for Future Equity)
+# Instrument: Seed SAFE
 
 ## What Makes a SAFE Different
-* No interest, no maturity date, no repayment. The whiteboard's "terrible" maturity scenario doesn't exist
-* There's no minimum size like the note's $250K threshold
+* No debt, no interest, no maturity date, and no repayment
+* There's no minimum qualified financing size for conversion like the note's $250K threshold
 * The investor's ownership is fixed upfront: `Ownership = Purchase Amount ÷ Post-Money Valuation Cap`
 * The investor gets more of their money back in a sale or their as-converted share
-* If the company shuts down, the investor is behind lenders, equal with other SAFEs and Preferred, and ahead of common stock
-* No voting rights until it converts, and the investor must be **accredited**
-* Valuation cap only with no discount
+* If the company shuts down, the investor is behind lenders in getting their money back
+* No voting rights until loan converts into equity
+* Valuation cap only with no discount price per share option
 
 ## Answers to the Activity Questions
 <details>
@@ -311,7 +288,7 @@ A post-money SAFE with a valuation cap only.
 <summary><b>How much is being raised?</b></summary>
 <br>
 
-Purchase Amount.
+Priced purchase amount defined in the SAFE.
 
 </details>
 
@@ -319,7 +296,7 @@ Purchase Amount.
 <summary><b>What is the company valuation?</b></summary>
 <br>
 
-Post-Money Valuation Cap.
+The post-money valuation cap defined in the SAFE.
 
 </details>
 
@@ -327,7 +304,7 @@ Post-Money Valuation Cap.
 <summary><b>What happens if the company is acquired?</b></summary>
 <br>
 
-Greater of money back (1x) or the as-converted value.
+The greater valuation of either 1x money back or the valuation-as-converted value.
 
 </details>
 
@@ -342,93 +319,30 @@ Greater of money back (1x) or the as-converted value.
 
 ---
 
-# Part 4: Light Seed Preferred Term Sheet
+# Instrument: Seed Preferred Light Term Sheet
 
 ## What Makes It Different
-* A short, founder-friendly version of the Series A in Part 2. The investor still gets preferred stock, but with far fewer protections
-* **1x non-participating** liquidation preference: the investor takes their money back **or** converts to common, not both
-* No redemption right, no anti-dilution, no drag-along and no dividends
-* **Future Rights:** the investor automatically gets whatever better terms the next series of preferred gets
-* **Binding Terms:** only the 30-day no-shop and confidentiality are legally binding
-
-## Answers to the Activity Questions
-<details>
-<summary><b>What type of investor does this deal?</b></summary>
-<br>
-
-Accredited angels and seed funds approved by the company.
-
-</details>
-
-<details>
-<summary><b>What type of company [entity] is this?</b></summary>
-<br>
-
-A corporation, [Delaware] in brackets as the default.
-
-</details>
-
-<details>
-<summary><b>What type of deal is this?</b></summary>
-<br>
-
-A priced seed round of preferred stock.
-
-</details>
-
-<details>
-<summary><b>How much is being raised?</b></summary>
-<br>
-
-Left blank: `$[_________]` in aggregate.
-
-</details>
-
-<details>
-<summary><b>What is the company valuation?</b></summary>
-<br>
-
-A blank pre-money valuation **that includes the option pool**, so the pool dilutes the founders, not the new investors.
-
-</details>
-
-<details>
-<summary><b>What happens if the company is acquired?</b></summary>
-<br>
-
-A sale counts as a liquidation. Preferred gets 1x its Original Issue Price (plus declared but unpaid dividends), and the rest goes to common. Investors can convert to common instead if that pays more.
-
-</details>
-
-<details>
-<summary><b>What two terms matter most?</b></summary>
-<br>
-
-1. Pre-money valuation, and whether it includes the option pool
-2. Liquidation preference, because 1x non-participating is the standard, founder-friendly version
-
-</details>
+* A short and founder-friendly version of the Series A Term Sheet
+* The investor still gets preferred stock, but with far fewer protections
+* 1x non-participating liquidation preference means the investor takes their money back OR converts to common stock
+* No redemption right, no anti-dilution, no drag-along clause, and no dividends
+* **Future Rights:** the investor automatically gets any better terms from the next series
+* **Binding Terms:** only the 30-day, no-shop, and confidentiality rules are legally binding
 
 ## Investor Rights at a Glance
 | Term | What it says | Who it favors |
 | ---- | ------------ | ------------- |
-| Liquidation Preference | 1x, non-participating | Balanced |
-| Conversion | Optional 1:1 into common | Neutral |
-| Protective Provisions | Majority of preferred must approve charter changes, new senior or equal preferred, buybacks, dividends, board size, or a sale | Investor |
+| Liquidation Preference | 1x money back non-participating | Neutral |
+| Conversion | Optional 1:1 conversion of preferred stock into common stock | Neutral |
+| Protective Provisions | Majority vote to approve charter changes, buybacks, dividends, board, or sale | Investor |
 | Information Rights | Major Purchasers only | Investor |
 | Pro Rata Rights | Major Purchasers only | Investor |
-| Board | Common, preferred and mutually agreed seats (blank counts) | Balanced |
+| Board | Common, preferred, and mutually agreed seats | Balanced |
 | Expenses | Company pays investor counsel a flat $10,000 | Investor |
-| Future Rights | Gets the next series' rights | Investor |
-| Founder Vesting | 4 years, full acceleration on a double trigger, IP assigned to the company | Investor |
-| No-Shop | 30 days, binding | Investor |
+| Future Rights | Investors automatically get any upgraded rights in future series | Investor |
+| Founder Vesting | 4 years with full acceleration on a double trigger | Investor |
+| No-Shop | 30-day, no-shop, and confidentiality rules are legally binding | Investor |
 
-## Part 2 vs. Part 4 in a Sale (Same $400K for 25%)
-| Sale price | Participating (Part 2) | Non-Participating (Part 4) |
-| ---------- | ---------------------- | -------------------------- |
-| $1M | $550K | $400K (takes the preference) |
-| $2M | $800K | $500K (converts to common) |
-| $10M | $2.8M | $2.5M (converts to common) |
 
 ---
 
