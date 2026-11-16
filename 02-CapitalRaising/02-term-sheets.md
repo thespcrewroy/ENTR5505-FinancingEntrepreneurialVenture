@@ -15,13 +15,78 @@
 
 ## Timeline
 
-- **Lending:** the investor lends $40,000 on day 1. It starts as debt instead of ownership. It is due back with interest after 24 months
-- **Debt Start:** 5% simple interest (`$2,000 per year`). $44,000 is owed at 24 months
+## Timeline
+
+- **Lending:** the investor lends $40,000 on day 1. It starts as **debt** instead of ownership, due back with interest after 24 months
+- **Debt Start:** 5% simple interest (`$2,000 per year`), building up daily and added to what converts. $44,000 is owed at 24 months
 - **Automatic Conversion:** if the company raises at least **$250,000** of new equity (a "Qualified Financing"), the note turns into shares
 - **Maturity (24 months):** if no qualified financing has happened, the investor chooses:
     - **(1) Great:** convert into common stock at a **$1.5M** cap, which is cheap if the company has grown
     - **(2) Terrible:** demand repayment of `$44,000`, which a struggling startup may not be able to pay
 
+## The Three Scenarios
+
+*Assumptions for the examples: the founder owns 1,000,000 shares, and a new Investor B leads the next round with $500,000.*
+
+### Scenario 1: A Qualified Financing Happens (Month 12)
+
+- The note converts **alongside** Investor B, into the same preferred stock, on the same closing day
+- At month 12, `$40,000 + $2,000 interest = $42,000` converts
+- The investor gets whichever price is **lower**, which gives them **more shares**:
+    - **Discount price:** 70% of Investor B's price per share
+    - **Cap price:** `$2M ÷ 1,000,000 shares = $2.00` per share
+- **Tipping point:** a pre-money of about **$2.86M** (70% × $2.86M = $2M). Above it the cap wins; below it the discount wins
+
+**1a. The Cap Wins**
+- Next round at a **$3M pre-money**, so Investor B pays `$3M ÷ 1,000,000 = $3.00` per share
+- 70% of $3M is $2.1M, but the cap is $2M, so the note converts at a **$2M valuation** (`$2.00` per share)
+- Angel shares: `$42,000 ÷ $2.00 = 21,000`
+- Before Investor B's shares: `$42,000 ÷ $2M ≈ 2.1%`
+
+| Holder | Shares | Ownership After the Round | Price per Share |
+| ------ | ------ | ------------------------- | --------------- |
+| Founder | 1,000,000 | 84.20% | n/a |
+| Investor B | 166,667 | 14.03% | $3.00 |
+| Angel (note) | 21,000 | 1.77% | $2.00 |
+| **Total** | **1,187,667** | **100%** | |
+
+**1b. The Discount Wins**
+- Next round at a **$2.5M pre-money**, so Investor B pays `$2.50` per share
+- 70% of $2.5M is $1.75M, below the $2M cap, so the **discount applies** (`$1.75` per share)
+- Angel shares: `$42,000 ÷ $1.75 = 24,000`
+- Before Investor B's shares: `$42,000 ÷ $1.75M ≈ 2.4%`
+
+| Holder | Shares | Ownership After the Round | Price per Share |
+| ------ | ------ | ------------------------- | --------------- |
+| Founder | 1,000,000 | 81.70% | n/a |
+| Investor B | 200,000 | 16.34% | $2.50 |
+| Angel (note) | 24,000 | 1.96% | $1.75 |
+| **Total** | **1,224,000** | **100%** | |
+
+### Scenario 2: No Qualified Financing by Maturity (Month 24)
+
+- No round of at least $250,000 closed, so the note comes due with `$44,000` owed
+- **(1) Convert:** common stock at the **$1.5M** cap with no discount
+    - `$1.5M ÷ 1,000,000 shares = $1.50` per share
+    - `$44,000 ÷ $1.50 = 29,333` shares, or `29,333 ÷ 1,029,333 ≈ 2.85%`
+- **(2) Repay:** demand `$44,000` in cash, which a struggling startup may not have
+- The lower cap ($1.5M vs. $2M) punishes the founder for not raising in time and compensates the investor for waiting
+
+### Scenario 3: The Company Is Sold Before a Qualified Financing (Month 12)
+
+- The investor gets the **greater of**:
+    1. **Principal plus interest:** `$42,000`
+    2. **As-converted value:** what the note would get converted at the **$1.5M** cap
+        - `$42,000 ÷ $1.50 = 28,000` shares, or `28,000 ÷ 1,028,000 ≈ 2.72%` of the sale price
+- **Breakeven sale price:** about **$1.54M**, where 2.72% equals $42,000
+
+| Sale Price | Principal + Interest | As-Converted (2.72%) | Investor Gets |
+| ---------- | -------------------- | -------------------- | ------------- |
+| $1M | $42,000 | $27,200 | **$42,000** (money back) |
+| $5M | $42,000 | $136,200 | **$136,200** (converts) |
+| $10M | $42,000 | $272,400 | **$272,400** (converts) |
+
+- In a small sale, the investor at least gets their money back; in a big sale, they share in the upside
 ## Answers to the Activity Questions
 <details>
 <summary><b>What type of investor does this deal?</b></summary>
@@ -89,17 +154,6 @@ Before a qualified financing, the investor gets the greater of:
 2. Maturity and repayment: what happens at 24 months if no round closes
 </details>
 
-## How Conversion Works
-
-- The investor gets whichever price is lower that results in more shares
-- The Cap Wins?
-    - Next round at a $3M pre-money
-    - 70% of $3M is $2.1M, but the cap is $2M, so the note converts at a $2M valuation
-    - If converted at month 12: `$42,000 ÷ $2M ≈ 2.1%`
-- The Discount Wins?
-    - Next round at a $2.5M pre-money
-    - 70% of $2.5M is $1.75M, so the note coverts at below the $2M cap
-    - The discount applies: `$42,000 ÷ $1.75M ≈ 2.4%`
   
 ---
 
