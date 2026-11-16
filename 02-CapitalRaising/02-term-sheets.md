@@ -7,7 +7,7 @@
 | Post-Money SAFE | Template | Template | [Seed](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
 | Term Sheet | Template | Pre-money plus the option pool | [Seed Priced-Prefrred](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
 | Revenue Buyback SAFE | Template | Fixed ownership with no cap | [Seed](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
-| Profit-Sharing SAFE | Template | cap used only on conversion or sale | [Seed Bootstrapped](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
+| Profit-Sharing SAFE | Template | Cap used only on conversion or sale | [Seed Bootstrapped](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
 
 ---
 
