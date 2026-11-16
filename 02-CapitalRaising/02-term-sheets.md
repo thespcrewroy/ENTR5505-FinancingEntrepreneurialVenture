@@ -31,34 +31,37 @@
     - **Cap Price:** $2.00 per share (`$2M capped pre-money ÷ 1,000,000 shares = $2.00 per share`)
 - A pre-money valuation of about **$2.86M** is the tipping point (`70% discount × $2.86M = $2M`)
 
-**1a. The Cap Wins**
+### Cap Wins
 - VC investor and founder negotiate a $3 million pre-money valuation based on its perceived worth
 - VC investor leads Seed round with a $500,000 investment
 - VC investor pays $3.00 per share (`$3M pre-money ÷ 1,000,000 shares = $3.00 per share`)
-- VC gets 166,667 shares (`$500,000 investment ÷ $3.00 per share = 166666.66... shares`)
+- VC gets 166,667 shares (`$500,000 investment ÷ $3.00 per share = 166,666.66... shares`)
 - The note converts at the lower $2M capped pre-money valuation (`70% discount x $3M = $2.1M > $2M`)
 - Angel investor pays $2.00 per share (`$2M capped pre-money ÷ 1,000,000 shares = $2.00 per share`)
 - Angel investor gets 21,000 shares (`$42,000 investment ÷ $2.00 per share = 21,000 shares`)
 
-| Holder | Shares | Ownership After the Round | Price per Share |
-| ------ | ------ | ------------------------- | --------------- |
-| Founder | 1,000,000 | 84.20% |  |
-| Investor B | 166,667 | 14.03% | $3.00 |
-| Angel (note) | 21,000 | 1.77% | $2.00 |
-| **Total** | **1,187,667** | **100%** | |
+| Holder | Shares | Ownership After the Round |
+| ------ | ------ | ------------------------- |
+| Founder | 1,000,000 | 84.20% |
+| Investor B | 166,667 | 14.03% |
+| Angel (note) | 21,000 | 1.77% |
+| **Total** | **1,187,667** | **100%** |
 
-**1b. The Discount Wins**
-- Next round at a **$2.5M pre-money**, so Investor B pays `$2.50` per share
-- 70% of $2.5M is $1.75M, below the $2M cap, so the **discount applies** (`$1.75` per share)
-- Angel shares: `$42,000 ÷ $1.75 = 24,000`
-- Before Investor B's shares: `$42,000 ÷ $1.75M ≈ 2.4%`
+### Discount Wins
+- VC investor and founder negotiate a $2.5 million pre-money valuation based on its perceived worth
+- VC investor leads Seed round with a $500,000 investment
+- VC investor pays $2.50 per share (`$2.5M pre-money ÷ 1,000,000 shares = $2.50 per share`)
+- VC gets 200,000 shares (`$500,000 investment ÷ $2.50 per share = 200,000 shares`)
+- The note converts at the lower $1.75 pre-money valuation (`70% discount x $2.5M = $1.75M < $2M`)
+- Angel investor pays $1.75 per share (`$2M capped pre-money ÷ 1,000,000 shares = $2.00 per share`)
+- Angel investor gets 24,000 shares (`$42,000 investment ÷ $1.75 per share = 24,000 shares`)
 
-| Holder | Shares | Ownership After the Round | Price per Share |
-| ------ | ------ | ------------------------- | --------------- |
-| Founder | 1,000,000 | 81.70% | n/a |
-| Investor B | 200,000 | 16.34% | $2.50 |
-| Angel (note) | 24,000 | 1.96% | $1.75 |
-| **Total** | **1,224,000** | **100%** | |
+| Holder | Shares | Ownership After the Round |
+| ------ | ------ | ------------------------- |
+| Founder | 1,000,000 | 81.70% |
+| Investor B | 200,000 | 16.34% |
+| Angel (note) | 24,000 | 1.96% |
+| **Total** | **1,224,000** | **100%** |
 
 ### Scenario 2: No Qualified Financing by Maturity (Month 24)
 
