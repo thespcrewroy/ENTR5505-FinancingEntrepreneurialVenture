@@ -2,12 +2,12 @@
 
 | Instrument | Amount | Valuation | Artifact |
 | ---------- | ------ | --------- | -------- |
-| Convertible Promissory Note | $40,000 | $2M cap or 30% discount at financing vs. $1.5M cap at maturity  | [Convertible Note](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
-| Series A Preferred Stock | $400,000 | $1.2M pre-money and $1.6M post-money | [Series A MOA](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
-| Post-Money SAFE | Template | Template | [Post-Money SAFE](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
-| Seed Preferred Stock | Template | Pre-money plus the option pool | [Light Term Sheet](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
-| Indie.VC Agreement | Template | Fixed ownership Percentage, no cap | [Revenue Redemption](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
-| Calm Company Fund SEA | Template | Valuation cap, used only on conversion or sale | [Shared Earnings Ag.](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
+| Convertible Promissory Note | $40,000 | $2M cap or 30% discount at financing vs. $1.5M cap at maturity  | [Pre-Seed Angel](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
+| Term Sheet | $400,000 | $1.2M pre-money and $1.6M post-money | [Series A Preferred](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
+| Post-Money SAFE | Template | Template | [Seed](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/PostMoney.pdf) |
+| Term Sheet | Template | Pre-money plus the option pool | [Seed Priced-Prefrred](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ExampleTermSheet.pdf) |
+| Revenue Buyback SAFE | Template | Fixed ownership with no cap | [Seed](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/IndieVCAgreement.pdf) |
+| Profit-Sharing SAFE | Template | Valuation cap, used only on conversion or sale | [Seed Bootstrapped](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SharedEarningsAgreement.pdf) |
 
 ---
 
