@@ -1,6 +1,6 @@
 # Case Study: Reading Term Sheets Like an Investor
 
-| Instrument | Amount | Valuation | Artifact |
+| Instrument | Amount | Valuation | Round |
 | ---------- | ------ | --------- | -------- |
 | Convertible Promissory Note | $40,000 | $2M cap or 30% discount at financing vs. $1.5M cap at maturity  | [Pre-Seed Angel](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/ConvertibleNote.pdf) |
 | Term Sheet | $400,000 | $1.2M pre-money and $1.6M post-money | [Series A Preferred](https://github.com/thespcrewroy/ENTR5505-FinancingEntrepreneurialVenture/blob/main/assets/SeriesATermSheet.pdf) |
