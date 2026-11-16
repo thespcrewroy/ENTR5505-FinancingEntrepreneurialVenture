@@ -146,7 +146,7 @@ $40,000.
 <summary><b>What is the company valuation?</b></summary>
 <br>
 
-Not set today. The note delays pricing until the next round, subject to a $2M cap, a 30% discount (converts at 70% of the new price), and a $1.5M cap if converted at maturity.
+Not set today. The note delays pricing until the next round.
 
 </details>
 
@@ -154,9 +154,9 @@ Not set today. The note delays pricing until the next round, subject to a $2M ca
 <summary><b>What happens if the company is acquired?</b></summary>
 <br>
 
-Before a qualified financing, the investor gets the greater of:
+The investor gets the greater of:
 1. Principal and interest
-2. What they'd receive by converting at the $1.5M cap
+2. What they'd receive by voluntarily converting at the $1.5M cap
 
 </details>
 
@@ -164,8 +164,8 @@ Before a qualified financing, the investor gets the greater of:
 <summary><b>What two terms matter most?</b></summary>
 <br>
 
-1. The conversion price: the $2M cap and 30% discount
-2. Maturity and repayment: what happens at 24 months if no round closes
+1. The conversion price
+2. Price at maturity with simple interest
 </details>
 
   
