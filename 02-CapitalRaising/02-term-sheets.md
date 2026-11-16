@@ -71,8 +71,10 @@
 - VC investor leads the Seed round $200,000 at month 6 for preferred stock at a $2M pre-money
 - VC investor pays $2.00 per share (`$2M pre-money ÷ 1,000,000 shares = $2.00 per share`)
 - VC gets 100,000 shares (`$200,000 investment ÷ $2.00 per share = 100,000 shares`)
-- Maturity date triggers a choice: convert the debt into equity at $1.5M or repay the $44,000 interest-loan
-- The angel chooses to convert into common stock at the $1.5M cap because founders often have no money to pay
+- Maturity date triggers a choice
+    - **Debt Payment:** $44,000 (`$40,000 loan x+ (5% interest x 2 years) = $44,000 interest-loan`)
+    - **Voluntary Conversion:** $1.5M capped pre-money valuation
+- The angel voluntarily chooses to convert into common stock at the $1.5M cap as founders often have no money to pay
 - $44,000 of debt converts into equity investment (`$40,000 loan x+ (5% interest x 2 years) = $44,000 investment`)
 - Angel investor pays $1.36 per share (`$1.5M cap pre-money ÷ (1M shares + 100k investor shares) ≈ $1.36 per share`)
 - Angel investor gets 32,267 shares (`$44,000 ÷ $1.36 per share ≈ 32,266.67 shares`)
@@ -85,20 +87,20 @@
 | **Total** | **1,132,267** | | **100%** |
 
 ### Scenario 3: The Company Is Sold Before a Qualified Financing (Month 12)
+- No qualified financing reached by month 12
+- A larger company offers to buy the startup for $5,000,000 at month 12
+- The founder must give the angel written notice at least 5 days before the sale closes
+- Angel investor gets the greater value option of the following two scenarios:
+    - **Debt Payment:** $42,000 (`$40,000 loan x+ 5% interest = $42,000 investment`)
+    - **Voluntary Conversion:** $1.5M capped pre-money valuation
+- Calculating Voluntary Conversion
+    - Angel investor would pay $1.50 per share (`$1.5M capped valuation ÷ 1,000,000 shares = $1.50 per share`)
+    - Angel investor would get 28,000 shares (`$42,000 ÷ $1.50 per share = 28,000 shares`)
+    - Angel investor would have 2.72% of the company (`28,000 angel shares ÷ 1,028,000 total shares = 2.72%`)
+    - Angel investor's shares are worth $136,000 (`2.72% x $5,000,000 sale = $136,000`) 
+- Automatic voluntary conversion to $1.5M capped pre-money valuation (`$136,000 > $42,000`)
+- The angel takes **$136,187** and the founder receives **$4,863,813** from the sale
 
-- The investor gets the **greater of**:
-    1. **Principal plus interest:** `$42,000`
-    2. **As-converted value:** what the note would get converted at the **$1.5M** cap
-        - `$42,000 ÷ $1.50 = 28,000` shares, or `28,000 ÷ 1,028,000 ≈ 2.72%` of the sale price
-- **Breakeven sale price:** about **$1.54M**, where 2.72% equals $42,000
-
-| Sale Price | Principal + Interest | As-Converted (2.72%) | Investor Gets |
-| ---------- | -------------------- | -------------------- | ------------- |
-| $1M | $42,000 | $27,200 | **$42,000** (money back) |
-| $5M | $42,000 | $136,200 | **$136,200** (converts) |
-| $10M | $42,000 | $272,400 | **$272,400** (converts) |
-
-- In a small sale, the investor at least gets their money back; in a big sale, they share in the upside
 ## Answers to the Activity Questions
 <details>
 <summary><b>What type of investor does this deal?</b></summary>
