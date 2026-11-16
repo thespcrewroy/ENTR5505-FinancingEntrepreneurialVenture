@@ -337,184 +337,71 @@ The greater valuation of either 1x money back or the valuation-as-converted valu
 | Protective Provisions | Majority vote to approve charter changes, buybacks, dividends, board, or sale | Investor |
 | Information Rights | Major Purchasers only | Investor |
 | Pro Rata Rights | Major Purchasers only | Investor |
-| Board | Common, preferred, and mutually agreed seats | Balanced |
+| Board | Common, preferred, and mutually agreed seats | Neutral |
 | Expenses | Company pays investor counsel a flat $10,000 | Investor |
 | Future Rights | Investors automatically get any upgraded rights in future series | Investor |
 | Founder Vesting | 4 years with full acceleration on a double trigger | Investor |
-| No-Shop | 30-day, no-shop, and confidentiality rules are legally binding | Investor |
+| No-Shop | Bans competing investment or acquisition offers from third parties for a set period | Investor |
 
 
 ---
 
-# Part 5: Indie.VC Agreement (Revenue Redemption)
+# Instrument: Indie.VC Seed Revenue Buyback SAFE
 
 ## How It Works
-* The investor (OATV IV, LP, the fund behind Indie.VC) buys a fixed **Percentage** of the company for the Purchase Amount
-* Starting on the Redemption Start Date, the company pays a monthly **Redemption Amount** equal to a % of **gross revenue**
-* Payments stop at **3x the Purchase Amount** (the Max Redemption Payment)
-* Each payment buys back part of the investor's stake. Paying the full 3x shrinks the Percentage to **1%**
-* If the company later raises a priced round of at least the Conversion Trigger, the remaining Percentage converts into that round's preferred stock
+* The investor buys a fixed percentage of the company for the **Purchase Amount**
+* The company pays a monthly **Redemption Amount** equal to a % of gross revenue starting at the specified **Redemption Start Date**
+* Payments stop at the **Max Redemption Payment** (`3x the Purchase Amount`)
+* Each redemption payment makes the company buy back part of the investor's stake
+* Investor shares of the company shrink to less than 1% by the time the max redemption payment is paid
+* If the company later triggers the conversion amount in a raise, the remaining percentage converts into that round's preferred stock
+* A revenue-focused VC that backs companies that may never raise a big round tend to this deal
+* This is a hybrid of equity and revenue-based financing
+
 
 ## Example: $100,000 for 10%
-- **Max Redemption Payment:** `3 × $100,000 = $300,000`
-- **Redeemable stake:** 90% of the 10% = 9 points, so 1% always stays with the investor
-- **After $100,000 paid (1x):** 3 points redeemed, so the investor owns 7%
-- **After $300,000 paid (3x):** 9 points redeemed, so the investor owns 1%
-- **Missed payments:** two months in a row, or any three in 12 months, let the investor demand the **entire $300,000 at once**
-
-## Answers to the Activity Questions
-<details>
-<summary><b>What type of investor does this deal?</b></summary>
-<br>
-
-A revenue-focused VC (Indie.VC) backing companies that may never raise a big round.
-
-</details>
-
-<details>
-<summary><b>What type of company [entity] is this?</b></summary>
-<br>
-
-A corporation (`[State] corporation`). It converts into preferred stock, so it assumes stock.
-
-</details>
-
-<details>
-<summary><b>What type of deal is this?</b></summary>
-<br>
-
-A hybrid of equity and revenue-based financing: ownership now, repaid out of revenue later.
-
-</details>
-
-<details>
-<summary><b>How much is being raised?</b></summary>
-<br>
-
-The Purchase Amount (blank).
-
-</details>
-
-<details>
-<summary><b>What is the company valuation?</b></summary>
-<br>
-
-No cap or price. The Percentage fixes ownership, so the implied post-money valuation is `Purchase Amount ÷ Percentage` (for example, $100K ÷ 10% = $1M).
-
-</details>
-
-<details>
-<summary><b>What happens if the company is acquired?</b></summary>
-<br>
-
-Before a Next Financing, the investor gets the greater of:
-1. The current Percentage × the sale proceeds
-2. The unredeemed Purchase Amount
-
-</details>
-
-<details>
-<summary><b>What two terms matter most?</b></summary>
-<br>
-
-1. The Percentage, which sets ownership
-2. The Redemption Amount and the 3x cap: a % of **gross revenue**, not profit, so it can squeeze a low-margin business
-
-</details>
+- **Max Redemption Payment:** $300,000 (`3 × $100,000 = $300,000`)
+- **Redeemable Stake:** 9 points (`90% of the 10%`)
+    - **After $100,000 paid (1x):** 3 points redeemed, so the investor owns 7%
+    - **After $300,000 paid (3x):** 9 points redeemed, so the investor owns 1%
+- **Missed Payments:** two months in a row lets the investor demand their entitled $300,000 at once
 
 ---
 
-# Part 6: Calm Company Fund Shared Earnings Agreement
+# Instrument: Calm Company Fund Bootstrapped Shared Earnings Agreement
 
 ## How It Works
-* The investor gets a **Percentage of Founder Earnings** each quarter, not ownership
-* **Founder Earnings** = net income + founders' salaries, so founders can't avoid payments by paying themselves more
-* Founders keep a **Founder Earnings Threshold** (per founder, per year) before anything is shared
-* Payments stop once the investor receives the **Shared Earnings Cap** (__x the investment)
-* If the company later raises a priced round, the investor can convert its **Equity Basis** (the greater of the unpaid cap or the investment) into shares at the lower of the round price or the **Valuation Cap**
+* The investor gets a **Percentage of Founder Earnings** (`net income + founders' salaries`)
+* They opt to take this each quarter rather than ownership
+* They want to make sure founders can't avoid payments by paying themselves more
+* Founders keep a threshold per founder per year before anything is shared
+* Payments stop once the investor receives the defined **Shared Earnings Cap** which is a multiple of the investment amount
+* **Equity Basis:** the greater equity share the investors have when when judging between the unpaid cap or the investment
+* If the company later triggers the conversion amount in a raise, the investor can choose the lower price per share of the following:
+    * Convert the equity basis into shares at the round price
+    * Convert the equity basis into shares at the defined valuation cap
+* A fund backing profitably bootstrapped "calm" companies that may never raise VC commonly do this deal
 
 ## Example: $100,000 at 10%, $100K Threshold per Founder, 2 Founders, 3x Cap
-- **Quarterly founder earnings:** $50,000 net income + $60,000 founder salaries = `$110,000`
-- **Quarterly threshold:** `2 founders × $100,000 ÷ 4 = $50,000`
-- **Shared this quarter:** `10% × ($110,000 − $50,000) = $6,000`
-- **Payments stop at:** `3 × $100,000 = $300,000`
-
-## Answers to the Activity Questions
-<details>
-<summary><b>What type of investor does this deal?</b></summary>
-<br>
-
-A fund backing profitable, bootstrapped "calm" companies that may never raise VC.
-
-</details>
-
-<details>
-<summary><b>What type of company [entity] is this?</b></summary>
-<br>
-
-Not specified. The payments come from earnings, so it can work for an LLC, but the conversion clause assumes shares.
-
-</details>
-
-<details>
-<summary><b>What type of deal is this?</b></summary>
-<br>
-
-A shared earnings agreement: profit-sharing up to a cap, with an option to convert to equity.
-
-</details>
-
-<details>
-<summary><b>How much is being raised?</b></summary>
-<br>
-
-The Amount of Investment (blank).
-
-</details>
-
-<details>
-<summary><b>What is the company valuation?</b></summary>
-<br>
-
-None today. The Valuation Cap only matters if the investor converts in a later priced round or the company is sold.
-
-</details>
-
-<details>
-<summary><b>What happens if the company is acquired?</b></summary>
-<br>
-
-The investor gets the greater of:
-1. Any unpaid amount of the Shared Earnings Cap
-2. What it would receive by converting the Equity Basis at the Valuation Cap
-
-</details>
-
-<details>
-<summary><b>What two terms matter most?</b></summary>
-<br>
-
-1. The Percentage and the Founder Earnings Threshold, which decide how much is paid each quarter
-2. The Shared Earnings Cap, which decides when payments stop
-
-</details>
+- **Quarterly Founder Earnings:** $50,000 net income + $60,000 founder salaries = `$110,000`
+- **Quarterly Threshold:** `2 founders × $100,000 ÷ 4 = $50,000`
+- **Shared This Quarter:** `10% × ($110,000 − $50,000) = $6,000`
+- **Payments Stop At:** `3 × $100,000 = $300,000`
 
 ## Investor Rights at a Glance
 | Term | What it says | Who it favors |
 | ---- | ------------ | ------------- |
-| Information Rights | Standard rights, plus the records needed to verify Shared Earnings | Investor |
-| Board Observer | Can attend board meetings, no vote | Balanced |
-| Pro Rata Rights | Can buy into future equity rounds | Investor |
-| Confidentiality | The only binding term | Investor |
+| Information Rights | Standard rights and the records needed to verify Shared Earnings | Investor |
+| Board Observer | Can attend board meetings without a vote at the table | Neutral |
+| Pro Rata Rights | Can invest in future equity rounds | Investor |
+| Confidentiality | Prohibits sharing sensitive info to negotiate with third parties | Investor |
 
 ---
 
 ## Conclusion
-* **Note:** quick and cheap, but it's debt with a deadline. If no round closes in 24 months, the investor can pick the best outcome.
+* **Convertible Note:** quick and cheap debt with a maturity deadline. The investor can pick the best ownership outcome at maturity.
 * **SAFE:** removes the debt risk entirely and fixes the investor's ownership upfront. Simpler for founders.
-* **Series A:** sets the price, but the **participating preference** and **redemption right** shift a lot of value to investors in small sales.
-* **Light Seed Preferred:** the same priced round with a **1x non-participating** preference and few extras, the founder-friendly baseline.
-* **Indie.VC:** ownership the founder can **buy back out of revenue**, up to 3x. Good for companies that may never raise again, painful if margins are thin.
-* **Shared Earnings:** no ownership unless the investor converts. Founders pay a share of **profits above their own salary threshold** until a cap. Built for profitable companies that don't want VC.
-
-*Headline valuations are only part of the deal. Check who gets paid first, how much, and when before comparing offers.*
+* **Revenue Buyback SAFE:** Good for companies that may never raise again. Painful if profit margins are thin.
+* **Profit-Sharing SAFE:** bilt for profitable companies that don't need VC-type funding.
+* **Traditional Term Sheet:** sets the price, but provisions shift a lot of value to investors in small sales.
+* **Light Term Sheet:** the same priced round with a 1x non-participating preference while the rest is founder-friendly
