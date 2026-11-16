@@ -23,20 +23,20 @@
 
 
 ### Scenario 1: A Qualified Financing Happens (Month 12)
-- The note converts the angel's debt into equity alongside the VC investor's investment
-- The angel's equity gets the same rights as the VC investor's preferred stock
-- $42,000 converts into equity (`$40,000 loan x+ 5% interest = $42,000 investment`)
-- The investor gets the lower price per share from the following two scenarios to give themselves more shares:
+- Angel investor gets the lower price per share from the following two scenarios to give themselves more shares:
     - **Discount Price:** 70% of the VC investor's calculated price per share
     - **Cap Price:** $2.00 per share (`$2M capped pre-money ÷ 1,000,000 shares = $2.00 per share`)
 - A pre-money valuation of about **$2.86M** is the tipping point (`70% discount × $2.86M = $2M`)
 
 ### Cap Wins
 - VC investor and founder negotiate a $3 million pre-money valuation based on its perceived worth
-- VC investor leads Seed round with a $500,000 investment
+- VC investor leads the Seed round with a $500,000 investment, triggering the $250,000 qualified financing threshold
 - VC investor pays $3.00 per share (`$3M pre-money ÷ 1,000,000 shares = $3.00 per share`)
 - VC gets 166,667 shares (`$500,000 investment ÷ $3.00 per share = 166,666.66... shares`)
+- Qualified financing triggers the angel's debt into equity conversion in tandem with the VC investor's investment
+- Angel investor's equity gets the same rights as the VC investor's preferred stock
 - The note converts at the lower $2M capped pre-money valuation (`70% discount x $3M = $2.1M > $2M`)
+- $42,000 of debt converts into equity investment (`$40,000 loan x+ 5% interest = $42,000 investment`)
 - Angel investor pays $2.00 per share (`$2M capped pre-money ÷ 1,000,000 shares = $2.00 per share`)
 - Angel investor gets 21,000 shares (`$42,000 investment ÷ $2.00 per share = 21,000 shares`)
 
@@ -49,10 +49,13 @@
 
 ### Discount Wins
 - VC investor and founder negotiate a $2.5 million pre-money valuation based on its perceived worth
-- VC investor leads Seed round with a $500,000 investment
+- VC investor leads the Seed round with a $500,000 investment, triggering the $250,000 qualified financing threshold
 - VC investor pays $2.50 per share (`$2.5M pre-money ÷ 1,000,000 shares = $2.50 per share`)
 - VC gets 200,000 shares (`$500,000 investment ÷ $2.50 per share = 200,000 shares`)
+- Qualified financing triggers the angel's debt into equity conversion in tandem with the VC investor's investment
+- Angel investor's equity gets the same rights as the VC investor's preferred stock
 - The note converts at the lower $1.75 pre-money valuation (`70% discount x $2.5M = $1.75M < $2M`)
+- $42,000 of debt converts into equity investment (`$40,000 loan x+ 5% interest = $42,000 investment`)
 - Angel investor pays $1.75 per share (`$2M capped pre-money ÷ 1,000,000 shares = $2.00 per share`)
 - Angel investor gets 24,000 shares (`$42,000 investment ÷ $1.75 per share = 24,000 shares`)
 
@@ -64,13 +67,22 @@
 | **Total** | **1,224,000** | **100%** |
 
 ### Scenario 2: No Qualified Financing by Maturity (Month 24)
+- VC investor and founder negotiate a $2 million pre-money valuation based on its perceived worth
+- VC investor leads the Seed round $200,000 at month 6 for preferred stock at a $2M pre-money
+- VC investor pays $2.00 per share (`$2M pre-money ÷ 1,000,000 shares = $2.00 per share`)
+- VC gets 100,000 shares (`$200,000 investment ÷ $2.00 per share = 100,000 shares`)
+- Maturity date triggers a choice: convert the debt into equity at $1.5M or repay the $44,000 interest-loan
+- The angel chooses to convert into common stock at the $1.5M cap because founders often have no money to pay
+- $44,000 of debt converts into equity investment (`$40,000 loan x+ (5% interest x 2 years) = $44,000 investment`)
+- Angel investor pays $1.36 per share (`$1.5M cap pre-money ÷ (1M shares + 100k investor shares) ≈ $1.36 per share`)
+- Angel investor gets 32,267 shares (`$44,000 ÷ $1.36 per share ≈ 32,266.67 shares`)
 
-- No round of at least $250,000 closed, so the note comes due with `$44,000` owed
-- **(1) Convert:** common stock at the **$1.5M** cap with no discount
-    - `$1.5M ÷ 1,000,000 shares = $1.50` per share
-    - `$44,000 ÷ $1.50 = 29,333` shares, or `29,333 ÷ 1,029,333 ≈ 2.85%`
-- **(2) Repay:** demand `$44,000` in cash, which a struggling startup may not have
-- The lower cap ($1.5M vs. $2M) punishes the founder for not raising in time and compensates the investor for waiting
+| Holder | Shares | Type | Ownership After Conversion |
+| ------ | ------ | ---- | -------------------------- |
+| Founder | 1,000,000 | Common | 88.32% |
+| VC Investor | 100,000 | Preferred | 8.83% |
+| Angel | 32,267 | Common | 2.85% |
+| **Total** | **1,132,267** | | **100%** |
 
 ### Scenario 3: The Company Is Sold Before a Qualified Financing (Month 12)
 
